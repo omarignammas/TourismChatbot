@@ -1,0 +1,15 @@
+# Environnements
+myenv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Données & index
+faiss_index*/
+*.pkl
+*.faiss
+
+# Fichiers générés
+*.txt

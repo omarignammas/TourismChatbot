@@ -1,0 +1,1295 @@
+"region_name: Tangier-Tetouan-Al Hoceima
+region_geography: Tanger-Tétouan-Al Hoceima is the northernmost of Morocco's twelve regions. In the north it faces the Strait of Gibraltar and the Mediterranean Sea and borders the Spanish exclave of Ceuta. It also borders the Moroccan regions of Rabat-Salé-Kénitra to the southwest, Fès-Meknès to the southeast and Oriental to the east. The Rif rises in the eastern part of the region and is the location of Al Hoceima National Park and Talassemtane National Park. The land near the Atlantic coast in the west is less rugged, and the fertile southwestern corner of the region is drained by the Loukkos River.
+region_provinces: Al Hoceima Province Chefchaouen Province Fahs-Anjra Province Larache Province M'diq-Fnideq Prefecture Ouezzane Province Tangier-Assilah Prefecture Tetouan Province
+region_population: 4,030,222
+region_density: 267.1/km2 (691.7/sq mi)
+region_economy: Agriculture is a major economic activity in the Tanger-Tetouan-Al Hoceima region. Major crops include cereals, pulses, olives and sugarcane. Animal husbandry and fishing are also important contributors to the economy.[9] Various free economic zones have been set up in the area surrounding the Tanger-Med container port, one of Africa's busiest, to promote industrial growth and foreign investment.[10] The region is also heavily reliant on tourism.[11]
+region_source_link: ['https://en.wikipedia.org/wiki/Tangier-Tetouan-Al_Hoceima']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: L'Oriental
+region_geography: Oriental is situated in the northeastern part of the country, with a northern coastline on the Mediterranean Sea. The region of Tangier-Tetouan-Al Hoceima, lie to its northwest, Taza-Fès-Meknès to its west, Drâa-Tafilalet to the southwest, with the Algerian provinces of Tlemcen and Naâma to its east and Béchar to the south. Melilla, a Spanish autonomous city, also borders the region. In 2015, Oriental was expanded to include Guercif Province.  The region is made up into the following prefectures and provinces:[9]  Berkane Province Driouch Province Figuig Province Guercif Province Jerada Province Nador Province Oujda-Angad Prefecture Taourirt Province
+region_population: 2,269,378
+region_area: 90,127 km2 (34,798 sq mi)
+region_density: 25.180/km2 (65.215/sq mi)
+region_source_link: ['https://en.wikipedia.org/wiki/Oriental_(Morocco)']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Fez-Meknes
+region_geography: The region of Fès-Meknes contains 7 provinces and 2 prefectures:[2][3]  Fès Prefecture Meknès Prefecture El Hajeb Province Ifrane Province Sefrou Province Moulay Yacoub Province Boulemane Province Taza Province Taounate Province
+region_provinces: Fès Prefecture Meknès Prefecture El Hajeb Province Ifrane Province Sefrou Province Moulay Yacoub Province Boulemane Province Taza Province Taounate Province
+region_population: 4,467,911
+region_area: 38,881.5 km2 (15,012.2 sq mi)
+region_density: 114.911/km2 (297.618/sq mi)
+region_source_link: ['https://en.wikipedia.org/wiki/Fez-Meknes']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Rabat-Salé-Kénitra
+region_geography: The region is made up into the following provinces and prefectures:[3]  Rabat Prefecture Salé Prefecture Skhirate-Témara Prefecture Kénitra Province Sidi Kacem Province Sidi Slimane Province Khemisset Province
+region_provinces: Rabat Prefecture Salé Prefecture Skhirate-Témara Prefecture Kénitra Province Sidi Kacem Province Sidi Slimane Province Khemisset Province
+region_population: 5,132,639
+region_area: 18,194 km2 (7,025 sq mi)
+region_density: 282.11/km2 (730.65/sq mi)
+region_source_link: ['https://en.wikipedia.org/wiki/Rabat-Sal%C3%A9-K%C3%A9nitra']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Béni Mellal-Khénifra
+region_geography: Béni Mellal-Khénifra is located in the interior of the country. It borders Rabat-Salé-Kénitra to the north, Fès-Meknès to the northeast, Drâa-Tafilalet to the southeast, Marrakesh-Safi to the southwest, and Casablanca-Settat to the northwest.[4] In the western and central part of the region is the productive Tadla plains irrigated by the Oum Er-Rbia River.[5] This plain is bracketed by the High Atlas mountains which run through the southern and eastern parts of the region, and the foothills of the Middle Atlas to the north.
+region_provinces: Azilal Province Béni Mellal Province Fquih Ben Salah Province Khénifra Province Khouribga Province
+region_population: 2,520,776
+region_density: 88.841/km2 (230.10/sq mi)
+region_economy: Agriculture comprises the majority of the region's economy. Major crops include cereals, beetroot, olives, citrus fruits, and pomegranates; the production of milk and meat is also substantial.[8][9] The Ouled Abdoun Basin near Khouribga holds 44% of Morocco's phosphate reserves.[10]
+region_source_link: ['https://en.wikipedia.org/wiki/B%C3%A9ni_Mellal-Kh%C3%A9nifra']
+region_scraped_at: Thu, 30 Oct 2025 12:24:22 GMT
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Casablanca-Settat
+region_geography: Casablanca-Settat is located on the Atlantic coast. It borders the regions of Rabat-Salé-Kénitra to the northeast, Béni Mellal-Khénifra to the southeast, and Marrakesh-Safi to the south. Part of the border with Marrakesh-Safi follows the course of the Oum Er-Rbia River, which flows northwest and empties into the Atlantic at Azemmour.[5] The river divides the region into two plains, the Doukkala in the west and the Chaouia in the east. Several reservoirs provide water for the region, including that of the Al Massira Dam on the Oum Er-Rbia and one on the Oued Mellah south of Mohammedia.[6][7]
+region_provinces: Benslimane Province Berrechid Province Casablanca Prefecture El Jadida Province Médiouna Province Mohammadia Prefecture Nouaceur Province Settat Province Sidi Bennour Province
+region_population: 7,688,967
+region_density: 381.28/km2 (987.52/sq mi)
+region_economy: Casablanca-Settat had a gross domestic product of 290 billion Moroccan dirhams in 2013, accounting for 32% of Morocco's GDP and ranking first among Moroccan regions.[11] Its economy is primarily based on services and industry.[12] In addition, the Doukkala area in the west is noted for its agricultural output.[13]
+region_source_link: ['https://en.wikipedia.org/wiki/Casablanca-Settat']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Marrakech-Safi
+region_geography: The region is made up of the following provinces and prefectures:[5]  Prefecture of Marrakech Al Haouz Province Chichaoua Province El Kelâa des Sraghna Province Essaouira Province Rehamna Province Safi Province Youssoufia Province
+region_provinces: Prefecture of Marrakech Al Haouz Province Chichaoua Province El Kelâa des Sraghna Province Essaouira Province Rehamna Province Safi Province Youssoufia Province
+region_population: 4,878,500
+region_source_link: ['https://en.wikipedia.org/wiki/Marrakech-Safi']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Drâa-Tafilalet
+region_geography: Drâa-Tafilalet is situated in the Atlas Mountains of Morocco. Its main watersheds are that of the Draa River in the west and the Ziz River, which irrigates the Tafilalt oasis, in the east. Drâa-Tafilalet borders five other Moroccan regions: Souss-Massa to the southwest, Marrakech-Safi to the west, Béni Mellal-Khénifra to the northwest, Fès-Meknès to the north, and Oriental to the northeast. It also borders two of Algeria's provinces, Tindouf in the south and Béchar in the southeast.
+region_provinces: Errachidia Province Ouarzazate Province Midelt Province Tinghir Province Zagora Province
+region_population: 1,635,008
+region_density: 18.405/km2 (47.668/sq mi)
+region_economy: Agriculture and pastoralism have traditionally been major economic activities in the region, but they have been adversely impacted in recent years by increasing desertification.[7][8] There is a filmmaking industry concentrated in the Ouarzazate area.[9] The fortified towns in the area, such as the World Heritage Site Aït Benhaddou, are popular tourist attractions. Traditional arts and crafts such as the pottery of Tamegroute and the rugs of Taznakht are also significant to the local economy.[10]
+region_source_link: ['https://en.wikipedia.org/wiki/Dr%C3%A2a-Tafilalet']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Souss-Massa
+region_geography: Souss-Massa borders the regions of Marrakesh-Safi to the north, Drâa-Tafilalet to the northeast and Guelmim-Oued Noun to the southwest. To the southeast is Algeria's Tindouf Province. The region faces the Atlantic Ocean on its western side: much of the coast is protected by Souss-Massa National Park. The interior of the region is dominated by the Anti-Atlas mountain range, while the Sous River runs across the northern part of the region, in the valley between the Anti-Atlas and the High Atlas. The capital Agadir is located at the mouth of the Sous. Toubkal National Park extends into the northeastern corner of the region.  Three factors influence the semi-arid Mediterranean climate of the region: the topography, the oceanic coastline, and the Sahara Desert. In the northern part, dominated by the Atlas Mountains, the climate shifts from humid to semi-arid as one moves towards the plain. This plain, which stretches from the base of the Atlas and includes the basins of the Souss and Massa rivers, experiences an arid climate despite its broad exposure to the Atlantic Ocean. Meanwhile, the southern and southeastern sections of the region, which lie on the northern edge of the Sahara, have a desert climate.  In the Souss plain, average precipitation over the last decade has been 2503 mm, while the high plateaus receive between 350 and 400 mm. The southern part of the region, adjacent to the Sahara, is much drier, but since 2005, the desert has been experiencing a greening trend due to significant winter rains, especially in 2009-2010.
+region_provinces: Agadir-Ida Ou Tanane Prefecture Chtouka-Aït Baha Province Inezgane-Aït Melloul Prefecture Taroudannt Province Tata Province Tiznit Province
+region_population: 3,020,431
+region_density: 58.488/km2 (151.48/sq mi)
+region_economy: Agriculture is a major economic activity in the Sous and Massa river basins located in the northwestern part of the region.[9] Industries related to the processing of agricultural and seafood products are also concentrated in the same area.[10] Agadir is an important fishing[11] and tourist port.[12] Tiznit is known for its traditional silverwork.[13]
+region_source_link: ['https://en.wikipedia.org/wiki/Souss-Massa']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Guelmim-Oued Noun
+region_geography: Guelmim-Oued Noun borders the regions of Souss-Massa to the northeast and Laâyoune-Sakia El Hamra to the south. It borders Algeria's Tindouf Province to the east and Mauritania's Tiris Zemmour Region to the southeast. Long stretches of virgin beach line its Atlantic coast in the northwest.[5] The region is bisected by the usually dry lower course of the Draa River which runs east to west. The capital Guelmim and the Noun River Wad Nounare located in the north and together give the region its name. A portion of the Moroccan Wall is located in the southeastern corner of the region: the area to its east is under the control of the Sahrawi Arab Democratic Republic.
+region_provinces: Assa-Zag Province Guelmim Province Sidi Ifni Province Tan-Tan Province
+region_population: 448,152
+region_density: 9.7196/km2 (25.174/sq mi)
+region_source_link: ['https://en.wikipedia.org/wiki/Guelmim-Oued_Noun']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Laâyoune-Sakia El Hamra
+region_geography: Laâyoune-Sakia El Hamra borders the region of Guelmim-Oued Noun to the north and Dakhla-Oued Ed-Dahab to the south. It shares its eastern border with Mauritania's Tiris Zemmour Region, and to its west is the Atlantic Ocean. The towns of Tarfaya, El Marsa and Boujdour are located on the Atlantic coast, and the Canary Islands are located offshore. The regional capital Laâyoune is located inland near El Marsa, and the region's second-largest town Smara is located near its geographic centre. The Moroccan Wall runs through the region and the area to its east is under the control of the Sahrawi Arab Democratic Republic.
+region_population: 451,028
+region_density: 3.22121/km2 (8.34291/sq mi)
+region_provinces: Laâyoune-Sakia El Hamra consists of four provinces:[3]  Boujdour Province Es Semara Province Laâyoune Province Tarfaya Province
+region_source_link: ['https://en.wikipedia.org/wiki/La%C3%A2youne-Sakia_El_Hamra']
+region: Tangier-Hoceima-Tetouan"
+
+"region_name: Dakhla-Oued Ed-Dahab
+region_geography: Dakhla-Oued Ed-Dahab consists of two provinces:  Aousserd Province Oued Ed-Dahab Province
+region_provinces: Aousserd Province Oued Ed-Dahab Province
+region_population: 219,965
+region_area: 142,865 km2 (55,160 sq mi)
+region_density: 1.53967/km2 (3.98773/sq mi)
+region_source_link: ['https://en.wikipedia.org/wiki/Dakhla-Oued_Ed-Dahab']
+region: Tangier-Hoceima-Tetouan"
+
+"city: Chefchaouen
+content: 
+description: Chefchaouen est la ville la plus touristique du nord du Maroc. Ancienne destination des hippies dans les années 60, elle attire aujourd’hui un nombre énorme de personnes inscrites sur Instagram. La ville est à la fois spectaculaire, légèrement étrange et agréable grâce aux montagnes qui l’entourent. Située à 564 mètres d’altitude, elle accueille des voyageurs du monde entier venus photographier ses murs bleus, résultat d’un mélange d’imaginaire collectif, d’histoire récente et de stratégies touristiques locales.
+history: Chefchaouen faisait partie des anciens villages blancs du Rif, semblables à ceux d’Andalousie, perchés, lumineux et blanchis à la chaux. Le bleu est récent. Des femmes du village, il y a une vingtaine d’années, ont décidé de repeindre la ville avec l’objectif d’attirer davantage de visiteurs. Les explications varient : inspiration de Majorelle, évocation des rivières, symbolique religieuse, couleur qui éloigne les insectes… Peu importe, le bleu a été choisi et continue d’être appliqué régulièrement par les habitants.
+informations: 
+L’effet visuel est vraiment saisissant : une atmosphère presque irréelle, aux accents psychédéliques. La médina est petite, calme et agréable, comparée à celles de Fès ou Marrakech. Le succès touristique a cependant transformé la ville : certains habitants se sont enrichis mais d’autres se sentent dépossédés de leur espace. Certains refusent les photos ou demandent un paiement. Chefchaouen devient parfois un décor figé, où habitants et touristes ne se rencontrent plus vraiment.
+La ville possède un patrimoine culturel riche. Les visiteurs passent souvent par la médina, la place Uta el-Hammam, la Kasbah du XVe siècle et son musée ethnographique. La cascade de Ras El Maa est un lieu apprécié pour se rafraîchir. Les randonnées vers Akchour ou dans le parc national de Talassemtane offrent des paysages majestueux. Le coucher de soleil depuis la mosquée espagnole est considéré comme un moment incontournable. Parmi les monuments religieux, la Grande Mosquée et la mosquée Boushafar (espagnole) sont remarquables, bien que non accessibles aux non-musulmans.
+Chefchaouen propose une cuisine traditionnelle riche : tajines, couscous, brochettes grillées, pastilla, produits locaux, fromages, makrouts ou baklavas accompagnés d’un thé à la menthe. Les restaurants les plus touristiques se concentrent autour de la place principale, mais l’authenticité se trouve dans les ruelles un peu plus éloignées.
+Les randonneurs peuvent quitter la foule en suivant le chemin derrière la mosquée Boushafar. Des villages accueillent les voyageurs pour la nuit ; la boucle de 40 km se parcourt en deux ou trois jours. Les environs regorgent de forêts, cascades, grottes, ponts naturels et sources d’eau. La grande cascade d’Akchour, à 1h de route, est très prisée.
+Sur la carte touristique de la ville, on retrouve les monuments, musées, hôtels, cafés et points de vue. Le climat est particulièrement agréable au printemps (15 à 25°C). L’été est chaud mais supportable grâce à l’altitude ; l’hiver est plus frais et humide.
+Pour rejoindre Chefchaouen, les voyageurs passent souvent par les aéroports de Tanger, Tétouan ou Fès, puis prennent un taxi, un bus ou un grand taxi. Les transferts privés sont les plus confortables. Les bus sont très demandés et il est prudent de réserver à l’avance. La gare routière se trouve en bas de la médina ; un taxi coûte environ 20 dirhams pour rejoindre le centre.
+Chefchaouen propose de nombreuses options d’hébergement, de l’auberge à la maison d’hôte ou au riad avec terrasse. Les prix varient selon la saison. Plusieurs établissements sont connus pour leurs vues sur la médina ou les montagnes, leurs petits déjeuners copieux ou leur décoration traditionnelle.
+Des excursions sont organisées depuis Fès ou Tanger, incluant visites guidées, découvertes culinaires ou circuits panoramiques. L’offre touristique est très développée.
+Les montagnes du Rif autour de Chefchaouen sont également connues pour la production de cannabis. Des visites de fermes sont proposées à des touristes, dans une logique de « tourisme agricole ». Le kif traditionnel est un mélange de cannabis et de tabac ; le haschich est obtenu par compression de la résine. La consommation est officiellement interdite, mais souvent tolérée tant qu’elle reste discrète. La région est historiquement un centre de production majeur. Le débat sur la dépénalisation est toujours présent au Maroc.
+city: Chefchaouen  region: Tangier-Hoceima-Tetouan"
+
+"city: Tanger
+content: 
+description: À la croisée de la Méditerranée et de l’Atlantique, Tanger se situe sur le Détroit de Gibraltar, au point de contact entre Orient et Occident. Son histoire millénaire est marquée par les échanges, les conquêtes, les influences multiples et les rivalités internationales. La ville symbolise un Maroc ouvert, complexe et profondément métissé.
+histoire: Les origines de Tanger remontent aux Phéniciens vers le XIIe siècle av. J.-C., liée au mythe de Tingis, épouse du géant Antée. Sous Carthage, Tanger devient un comptoir commercial prospère. Après la chute de Carthage, Rome prend le contrôle et intègre la ville à la Maurétanie Tingitane. L’époque romaine voit la construction de routes, forums, aqueducs et infrastructures administratives. La production de garum dans la ville antique de Cotta était réputée.
+Après Rome, Vandales et Byzantins se succèdent, avant l’arrivée des armées musulmanes en 705. La ville devient un point de départ essentiel pour la conquête de l’Espagne en 711. Sous les dynasties almoravide et almohade, Tanger perd de son importance au profit de Ceuta ou Tétouan et devient un repaire de corsaires mineurs, loin derrière Salé.
+De 1471 à 1684, Tanger est successivement portugaise, espagnole puis anglaise. Les Portugais construisent fortifications et églises ; les Anglais transforment l’urbanisme intérieur en fusionnant des maisons pour créer des résidences plus spacieuses. Ils importent parquets, vitres, jardins privés. Leur présence est brève et conflictuelle : face à la résistance locale et au coût exorbitant, ils quittent la ville en détruisant le port, laissant Tanger sans môle valable jusqu’à la fin du XIXe siècle.
+Au XVIIIe siècle, Tanger devient la porte diplomatique du Maroc : lieu de résidence des Européens, plateforme commerciale et siège des représentations étrangères. La Légation américaine s’installe dès 1821, première représentation diplomatique américaine hors des États-Unis. La ville joue un rôle central dans les relations entre le Maroc et les puissances occidentales. Les conseils diplomatiques administrent progressivement la ville et gèrent hygiène, urbanisme, marchés publics.
+Au XIXe siècle, Tanger est au cœur des tensions géopolitiques : bombardée en 1844 par la France après la bataille d’Isly, puis témoin de l’effondrement progressif de la puissance marocaine dans le nord. Les ambitions britanniques, espagnoles et françaises s’entremêlent. Le commerce international se développe. Le thé, puis le café et le tabac arrivent au Maroc. La ville s’industrialise, les télégraphes et postes occidentales s’installent. Une communauté cosmopolite composée de Marocains, Juifs et Européens s’ancre dans la médina. Les Juifs représentent jusqu’à 30 % de la population, sans quartier séparé, contrairement à Fès ou Marrakech.
+En 1923, Tanger obtient un statut international unique, administrée par plusieurs puissances. C’est l’âge d’or littéraire et artistique : Bowles, Tennessee Williams, journalistes arabes en exil… Durant la Seconde Guerre mondiale, le détroit est une zone stratégique majeure pour les sous-marins allemands et l’espionnage allié. La ville devient un centre d’intelligence incontournable. En 1947, le discours du sultan Mohammed V à la Mendoubia marque une étape symbolique vers l’indépendance.
+Le régime international prend fin en 1956, et Tanger est intégrée au Maroc. Les années suivantes sont marquées par des départs européens, une restructuration politique et sociale, et la fermeture progressive du chapitre cosmopolite décadent qui fascinait les voyageurs.
+Depuis les années 2000, Tanger connaît une métamorphose spectaculaire : port Tanger Med, TGV, zones industrielles, rénovation urbaine, infrastructures modernes. La ville devient un pôle stratégique africain et méditerranéen. Les projets futurs, y compris la possibilité d’un pont ou tunnel Maroc-Espagne, nourrissent les perspectives d’un renouveau durable.
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"name: Atelier15
+description: Atelier 15 est un espace artistique et une galerie située dans la vieille ville de Tanger. Nous proposons des ateliers manuels et artistiques pour les amateurs, les enfants, les adultes et les entreprises, le tout dans le même espace. Tous nos ateliers sont interactifs, les participants sont invités à réaliser toutes les étapes, créer, discuter, partager tout en s'amusant ! À la fin de la session, ils seront invités à repartir avec le fruit de leur travail.
+category: peinture et poterie
+address: 15 Rue El Jadida, Tanger (Tanja) 90000 Maroc
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"name: Morocco Unfiltered
+description: Découvrez la culture Marocaine en lien direct avec les locaux : cours de cuisine, musique, ateliers créatifs ou excursions... À vous de choisir !
+category: activités, tours, ateliers et autres expériences au Maroc
+address: Tanger
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"name: Blue Door Cuisine
+description: Cours de Cuisine à Tanger: Découvrez la Culture Marocaine à travers le trou de la serrure d'une Expérience Culinaire. Vous recevrez des instructions pas à pas de femmes Marocaines locales sur la préparation d'un plat Marocain traditionnel tel qu'un Tajine ou un Couscous. Préparez le thé à la menthe Marocain traditionnel de la même manière que les habitants le font depuis des générations. Découvrez des recettes secrètes pour préparer un plat Marocain de classe mondiale. Explorez le magasin d'épices et le marché local dans la vieille ville - Medina. Défi de groupe: préparez le pain marocain à la main comme le font les locaux. Blue Door Cuisine est plus qu'un cours de cuisine; C'est une expérience où vous venez en tant qu'invité et partez en ami!
+category: cuisine
+address: Tanger
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"name: Moroccan Artisanal
+descritpion: Cours de Cuisine à Tanger: Découvrez la Culture Marocaine à travers le trou de la serrure d'une Expérience Culinaire. Vous recevrez des instructions pas à pas de femmes Marocaines locales sur la préparation d'un plat Marocain traditionnel tel qu'un Tajine ou un Couscous. Préparez le thé à la menthe Marocain traditionnel de la même manière que les habitants le font depuis des générations. Découvrez des recettes secrètes pour préparer un plat Marocain de classe mondiale. Explorez le magasin d'épices et le marché local dans la vieille ville - Medina. Défi de groupe: préparez le pain marocain à la main comme le font les locaux. Blue Door Cuisine est plus qu'un cours de cuisine; C'est une expérience où vous venez en tant qu'invité et partez en ami!
+category: artisanat
+address: 46 e Rue kacem guennoun, Tanger (Tanja) 90000 Maroc
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"name: Wave Riders Surf Camp
+description: Cours de surf pour débutants et intermédiaires avec matériel et transport inclus. Retraites surf & yoga 7j : surf, yoga, ice bath, pension complète, analyse vidéo, excursions. Expériences bien-être : yoga, ice bath, repas sains et ambiance chill. Surf guiding : explore les meilleurs spots avec un guide local. Excursions : Pradise valley, timlaline dunes
+category: Surf et planche à voile
+address: Tanger
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier 90060 Morocco
+description: Les grottes d'Hercule sont des cavernes naturelles situées à 14 km à l’ouest de Tanger, au Maroc[1], à l'entrée atlantique du détroit de Gibraltar. Géographes et historiens l'identifient avec l'endroit dans lequel, selon la mythologie antique, Hercule, demi-dieu grec fils de Zeus, se serait reposé avant de dérober les pommes d'or, jadis offertes par Zeus à Héra, mais dérobées par les Hespérides.
+name: Caves of Hercules
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier Morocco
+description: Un belvédère emblématique offrant une vue panoramique sur la baie de Tanger. Lieu calme apprécié pour se reposer et observer la ville.
+name: Terrasse des Paresseux
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier 90000 Morocco
+description: Cap légendaire situé à la rencontre de l’Atlantique et de la Méditerranée. Connu pour son phare historique et ses paysages côtiers.
+name: Cap Spartel
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier 90000 Morocco
+description: Place historique où Mohammed V prononça un discours important. Point central de la médina et lieu de passage animé.
+name: Place du Grand 9 Avril 1947
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Route de Boubana, Tangier 90040 Morocco
+description: Grand centre commercial moderne avec boutiques internationales. Destination prisée pour le shopping et les loisirs.
+name: Socco Alto
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Place du Maghreb Arabe, Tangier 90000 Morocco
+description: Centre commercial populaire près de la plage. Comprend boutiques, restaurants et un cinéma.
+name: Tanger City Mall
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Place de la Kasbah, Tangier 90030, Morocco
+description: Musée installé dans un ancien palais sultanien. Il expose l’histoire et l’art de la région du nord du Maroc.
+name: Musee de la Kasbah
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Ave Mohamed VI, Tangier Morocco
+description: Grande plage urbaine située le long de l’avenue Mohammed VI. Très fréquentée pour la promenade et les activités nautiques.
+name: Plage de Tanger
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Rue Naciria, Tangier 90000 Morocco
+description: Boutique traditionnelle réputée pour l’artisanat marocain. Connue pour la qualité de ses produits et l’accueil chaleureux.
+name: Bazar Naciria
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Foret de R_milat, Tangier Morocco
+description: Forêt et parc naturel sur les hauteurs de Tanger. Parfait pour les randonnées et les vues sur la mer.
+name: Parc Perdicaris
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Rue de Achakar Plage Sol, Grottes d'Hercule, Tangier 90000 Morocco
+description: Plage isolée au sable clair près des Grottes d’Hercule. Appréciée pour sa tranquillité et ses eaux propres.
+name: Playa Blanca
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier Morocco
+description: Grande mosquée du centre-ville, reconnaissable à son minaret. Lieu de culte important et repère architectural.
+name: Gran Mezquita de Tanger
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: 8 Rue d'Amerique, Tangier Morocco
+description: Premier bâtiment diplomatique américain hors des USA. Musée retraçant l'histoire maroco-américaine.
+name: Tangier American Legation Museum
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Rue Cheikh al Harrak, Tangier Morocco
+description: Synagogue restaurée témoignant du patrimoine juif tangérois. Lieu historique ouvert aux visiteurs.
+name: Moshe Nahon Synagogue
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Cabo Punta Malabata, Tangier 90000 Morocco
+description: Cap situé à l’est de Tanger avec vue sur la baie. Connu pour son phare et ses falaises.
+name: Punta Malabata
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Place De la Kasbah, Tangier 90030 Morocco
+description: Ancienne forteresse dominant la médina. Quartier chargé d’histoire avec ruelles, palais et panoramas.
+name: Tangier Casbah
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier Morocco
+description: Plage sauvage proche du cap Spartel. Appréciée pour son cadre naturel et son calme.
+name: Ba Kacem Beach
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Rue d'Angleterre 50, Tangier Morocco
+description: Église anglicane construite en style mauresque. Connue pour son architecture unique et son jardin paisible.
+name: St. Andrew's Church
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier 90000 Morocco
+description: Plage réputée aux eaux turquoise près du détroit. Très populaire en été pour ses paysages.
+name: Dalia Beach
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"category: attraction
+address: Tangier Morocco
+description: Place historique de la médina, autrefois centre cosmopolite. Aujourd’hui animée avec cafés et boutiques.
+name: Petit Socco
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Rue Anfa N 96 Bis Tanger
+contact: 0603063681 / 0666064305
+category: cooperative
+speciality: vente miel pure, huile d'argan alimentaire et cosmétique amlou d'amandes et huile d'argan, amlou cacahétes pollen, gelée royale propolis
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: 6 rue Azrou, Tanger
+contact: 0644958680
+category: cooperative
+speciality: vente et commercialisation de produits agricoles trouvés à la campagne tels que le désert, le concombre, les figues sèches, le couscous, les herbes médicinales naturelles et tous leurs produits sera disponible sur le marché.
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Tanger
+contact: 0621264323
+category: cooperative
+speciality: artisanat
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Hay Al Boghaz Zanqa Rahal Ben Ahmed N°33, Tanger
+contact: 0664531777
+category: cooperative
+speciality: l'apiculture, de l'évaluation des produits, de l'élevage de volailles et de bétail, de la production gratuite de miel de toutes sortes, d'huile d'olive, de légumes et de fruits
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: 16 rue Zahrawi Mohamed, Tanger
+contact: 0664209578
+category: cooperative
+speciality: divers alimentaires
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Mi Albomout rue 29 N°13, Tanger
+contact: 0636867066
+category: cooperative
+speciality: vente des produits orientaux, aussi dans l'import et l'export de toutes les huiles naturelles, notamment l'extraction d'huile d'Argan qui est un don naturel de notre pays le Maroc.
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Lot Almajd, Rue Ariad N°647, Tanger
+contact: 0539351084
+category: cooperative
+speciality: vente des produits orientaux, aussi dans l'import et l'export de toutes les huiles naturelles, notamment l'extraction d'huile d'Argan qui est un don naturel de notre pays le Maroc.
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Réd Méditerranée Rue plage Annakhil N°580, Tanja Balia - Tanger
+contact: 0539302259 / 0661530939
+category: cooperative
+speciality: sculpture sur plâtre artisanale
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Fragmentation Méditerranéenne, Palmier de plage Nakhile N°580, Tanger Albalia
+contact: 0661924453
+category: cooperative
+speciality: artisanat
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+"address: Tanger
+contact: 0539361924
+category: cooperative
+speciality: production de produits laitiers
+city: Tanger  region: Tangier-Hoceima-Tetouan"
+
+{"type": "markdown", 
+"title":"ODD 13 : Mesures relatives à la lutte contre les changements climatiques", 
+"content": "La région de Tanger-Tétouan-Al Hoceima fait partie des régions du Royaume les plus vulnérables aux changements climatiques, de par sa position géographique et ses prédispositions naturelles, ce qui se traduit par des phénomènes climatiques extrêmes comme les vagues de froid et de chaleur étant à l’origine de la survenue de catastrophes naturelles notamment les inondations, les glissements de terrains ou les incendies de forêts. Nombreuses sont les mesures et les initiatives prises pour lutter contre les changements climatiques et assurer la résilience de la population et du territoire contre ses répercussions, que ce soient par des programmes régionaux ou dans le cadre de stratégies nationales à vocation climatique. En effet, le pays a adopté une démarche volontaire, intégrée, participative et responsable dans son effort d’adaptation et d’atténuation des aléas climatiques, qui constitue l’un des piliers majeurs de la Stratégie Nationale de Développement Durable",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Etat de mise en œuvre", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Résilience face aux catastrophes naturelles", 
+"content": "Les catastrophes naturelles auxquelles est confrontée la RTTA sont multiples. Durant les dernières décennies, elle a souffert d’épisodes de sécheresses entrecoupés d’épisodes pluvieux violents causant de fortes inondations. En effet,  celles-ci y sont considérées les plus menaçantes de par la succession des crues ayant frappé la région, comme les crues torrentielles de Tétouan et Tanger en 2021, 2020 et 2014 ou les  inondations survenues à Tétouan en 2010 et à  Tanger en 2008. En fait, les inondations ont causé le plus de pertes humaines avec 29 décès [73] en 2021. Sur ceci, 96 sites [74] présentent un risque d’inondation dans la région, dont 52 sont de degrés élevés à très élevé. La nature du sol et du relief régional caractérisé par de fortes pentes est à l’origine d’écoulements de terrain, un blessé a été déploré en 2021 sans décès enregistrés.
+Les feux de forêt sont aussi néfastes pour le patrimoine forestier régional et ont causé, en plus de dégâts humains avec 23 blessés [75] entre 2016 et 2021, des dommages économiques importants : 995 incendies ont été déplorés à la région durant cette période et brûlé 10083 ha de forêts.
+La RTTA est aussi connue par ses activités sismiques, mais aucune victime n’y a été enregistrée depuis le tremblement de terre d’Al Hoceima en 2004 qui avait causé des dégâts humains et matériels importants.
+Outre les dégâts humains, les dommages matériels et les répercussions socioéconomiques sont considérables : Les températures élevées et les précipitations concentrées augmentent les risques d’accidents,
+73 Commandement Régional de la Protection Civile 74 Agence du Bassin Hydraulique du Loukoss – Agence du Bassin Hydraulique de Sebou
+ impactent les voiries et génèrent des coûts de réparation très importants. Les sécheresses réduisent considérablement la production et les rendements agricoles et impactent ainsi le revenu des agriculteurs et la disponibilité des produits  alimentaires.
+Par ailleurs, dans le but de renforcer la résilience des territoires à risques et protéger la population et les biens des conséquences des catastrophes naturelles, la stratégie nationale de gestion des risques  2020-2030:  a été déclinée au niveau de la région. Parmi les instruments et outils de prévention, l’organisation des préparatifs aux  interventions en amont des événements  catastrophiques notamment les inondations, la réalisation des travaux de protection des villes de la région contre les inondations, et la mise en place de 5 cartes d’aptitude à l’urbanisation en tant que mécanisme de gestion anticipative et systématique des risques. De même, les travaux sont en cours pour la mise en place d’un observatoire de Sismologie à la province d’Al  Hoceima.
+Aussi, des projets de prévention des catastrophes naturelles ont été menés par le Conseil Economique, Social et Environnemental, en partenariat, entre autres, avec la Région. Ces projets ont pour objectifs de prévenir, réduire et gérer les catastrophes naturelles, et consistent en un recensement des  zones les plus exposées aux risques naturels, la signature de conventions de partenariat avec les sociétés d’assurances afin de protéger les populations vulnérables, puis la mise en place d’une cellule de veille chargée de surveiller et d’évaluer le niveau de risque au niveau de la région.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Emissions de gaz à effet de serre", 
+"content": "Les secteurs clés de l’économie  énergie, déchets,agriculture, industrie: représentent des sources émettrices de gaz à effet de serre  GES:  qui induisent des variations de température, et contribuent au réchauffement climatique. En 2016, les émissions de GES de la RTTA sont estimées à 7578 Gg.eqCO 2, soit 8,8% du total national  hors secteur de la Foresterie et autres Affectations des Terres-FAT: , dont 68% sont calculées en équivalent de CO 2 . Les émissions de CH 4 représentaient 1820 Gg.eqCO 2 et les  émissions de N 2 O étaient de l’ordre de 582  Gg.eqCO 2 .", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+
+"title":"Graphique20 : Émissions de GES en 2016 par gaz,en équivalent CO2 hors FAT:RTTA", 
+"content": "N2O; 8% CH4; 24% CO2; 68%
+Source : Direction Régionale de l’Environnement", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown",
+
+"title":"Précipitations fluctuantes et températures en hausse", 
+"content": "D’autre part, si la région connaît généralement des températures clémentes en hiver et douces en été, avec une moyenne de 17 °C, pouvant varier de 0 à 37°C selon la saison, la proximité aux zones côtières ou l’altitude, il convient de  noter que ces dernières années, elle est soumise à une recrudescence des vagues de chaleur qui accentuent davantage les impacts bien marqués du changement climatique sur les ressources naturelles de la région [76] .
+Quant au régime des précipitations, il connait des fluctuations d’une année à l’autre, avec la survenue d’années de sécheresse ou de crues violentes.", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Une politique climatique régionale", 
+"content": "Dans le cadre de la déclinaison de l’action  climatique au niveau de la RTTA, celle-ci a adopté le Plan Climat Territorial  PCT:  en 2021. De même, le Schéma Régional de préservation  de l’Environnement et de lutte contre les  Changements Climatiques a été mis en place en 2019 dont la première mission a été consacrée au rapport régional sur l’état de l’environnement avec un focus sur les changements climatiques, alors que la deuxième mission a été réservée au Plan d’action régional de la préservation de  l’environnement et la lutte contre les  changements climatiques. L’objectif de ce schéma étant la définition de plans opérationnels permettant à la RTTA de s’inscrire dans une approche de durabilité tenant compte des enjeux et axes stratégiques de la Stratégie Nationale de Développement durable ainsi que ceux des ODD.  Aussi, un réseau régional pour la collecte et le partage des données et des indicateurs environnementaux de la RTTA a été créé en 2019 et un système d’information régional de l’environnement et du développement durable mis en place depuis 2017.a région a aussi connu la mise en place du Programme de gestion des menaces du changement climatique 2018-2019 qui s’inscrit dans la mise en œuvre des décisions de l'Accord  de Paris, avec l’adoption du modèle de développement durable à bas carbone  inclus dans l'agenda de la COP 22: , mis en place par le département de l’environnement en partenariat avec celui des eaux et forêts ainsi que des partenaires privés.
+Une étude de vulnérabilité du secteur de l’habitat  au changement climatique  2019-2020: au niveau de la RTTA a été réalisée par le Ministère de l’Aménagement du Territoire, de l’Urbanisme, de l’Habitat et de la Politique de la Ville. Elle a permis de caractériser la vulnérabilité et les risques liés au changement climatique dans la région et de produire une carte synthétique de vulnérabilité au changement climatique.
+En matière d’atténuation ou d’adaptation, la RTTA a mis en place son Plan Régional d’Atténuation des émissions de GES, ainsi que son Plan d’Adaptation Prioritaire. De même, plusieurs initiatives sont déjà menées par différents départements à la région.
+L’ABHL prévoit un plan d’action pour faire face à la vulnérabilité de la région aux changements climatiques et aux exigences du développement socioéconomique qui se traduit par une pression de plus en plus importante sur les ressources en eau. Ce plan d’action s’articule autour de la mobilisation des eaux de surface par les grands barrages en cours de réalisation et programmés, l’interconnexion entre les systèmes hydrauliques du Loukkos et du Tangérois, la mobilisation des eaux de surface par les petits barrages et lacs collinaires, le dessalement de l’eau de mer, la  réutilisation des eaux usées épurées et le captage des eaux pluviales.
+L’Agence Nationale des Eaux et Forêts dans l'ensemble de ses programmes et tâches prend  en considération l'atténuation devant les effets  du changement climatique. Les plans d'aménagement des forêts et des bassins versants ainsi que les interventions prennent en compte des actions d'atténuation à travers des actions de reboisement et reconstitution des écosystèmes naturels et un choix des espèces résilientes avec des efforts en matière de préservation de la biodiversité : Plans d'action des espèces menacées, Gestion des aires protégées et zones humides et lutte contre la désertification [77] .   En effet, le potentiel floristique régional est aussi un atout valorisable en matière d’atténuation des émissions des gaz à effet de serre de la région.
+Le Centre Régional de Recherche Agricole de Tanger développe aussi des stratégies axées sur les pratiques de l’agriculture de conservation et le développement de systèmes de production résilients aux changements climatiques. Il s’agit, entre autres, de la préservation des ressources génétiques locales caprines adaptées aux changements climatiques, l’introduction des variétés des céréales et légumineuses plus tolérantes à la sécheresse au niveau de la région, la préservation des ressources génétiques animales et végétales locales adaptées aux changements climatiques, puis le contrôle et la lutte contre les maladies et insectes émergents causés par les changements climatiques  cochenille de cactus...etc.:  [78] .
+Aussi, la zone de Tanger est concernée par la réalisation des cartes de vocation agricole des terres pour les conditions climatiques futures qui consistent à comparer les aires de distribution des principales espèces cultivées  céréaliculture, légumineuses alimentaires et arboriculture: en fonction des contraintes des sols [79] .
+La Direction Régionale de l’Artisanat, en partenariat avec le Conseil Régional et la Chambre d’artisanat de la RTTA mène plusieurs actions en faveur de la réduction des émissions des GES, notamment par la modernisation des méthodes de production dans le secteur de la poterie, par le remplacement des fours traditionnels par des fours à gaz, la conservation du couvert végétal, la limitation de l’utilisation des produits polluants, la gestion et traitement optimal des déchets, puis la maîtrise des risques physicochimiques des produits.
+La Direction Régionale de l’Equipement, du Transport, de la Logistique et de l’Eau mène aussi des actions en matière d’atténuation des émissions des GES, dont on peut citer l’incitation au renouvellement du parc des véhicules de transport routier professionnel les plus vétustes et polluants d’âge supérieur à 15 ans, en instituant une prime à la caisse et une prime de renouvellement, de même l’adoption des normes d’émissions de polluants EURO4 qui s’appliquent aux véhicules neufs importés dès janvier 2011 et aux véhicules de fabrication nationale dès janvier 2015 [80], la limitation de l’âge des véhicules à l’importation à cinq ans [81,] puis l’utilisation des nouvelles techniques moins polluantes et réduisant les émissions de GES pour le traitement de la chaussée [82] .
+L’Agence pour la Promotion et le Développement économique et social des préfectures et provinces du Nord du Royaume APDN: a aussi mis en place des mesures de prévention et d’atténuation des risques liés au réchauffement climatique. Parmi les projets mis en œuvre, le programme de l’aménagement des oueds et les systèmes de protection contre les inondations, le programme «Pérennité des ressources en Eau au Maroc» dans la province de Tétouan, les travaux de défense et de  restructuration des sols dans diverses provinces, les projets de reboisement des forêts, le programme de développement participatif des zones forestières et péri-forestières de la province de Chefchaouen, les programmes de lutte contre les incendies de forêts, le programme de développement durable de la Réserve de Biosphère Intercontinentale Méditerranéenne  RBIM: , les plans provinciaux du Nord liés à la gestion de déchets ménagers et industriels ainsi que la création de décharges contrôlées [83] .
+Engagée dans les projets et actions de la lutte contre les Changements Climatiques, la région de Tanger-Tétouan-Al Hoceima a connu, en 2016, l’organisation de la Conférence MedCop Climat des pays riverains de la Méditerranée sur les changements climatiques, comme initiative du Conseil Régional en partenariat avec la Région Provence-Alpes-Côte d’Azur. Un Agenda méditerranéen des solutions a été élaboré pour un partenariat de tous les acteurs de la Méditerranée face aux changements climatiques. La MedCop Climat a débouché sur  la création de la Maison Méditerranéenne du Climat  MMC: de la part du Conseil Régional avec le soutien des principales organisations internationales qui agissent autours de la Méditerranée. Installée à Tanger, la MMC se met  au service des territoires et de l’économie  comme acteur de renforcement des capacités, de  soutien au financement et comme incubateur de  projets en faveur de la lutte contre le changement climatique.", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Education et Sensibilisation", 
+"content": "La région a connu l’organisation de plusieurs activités ayant pour but d’initier les étudiants et les jeunes aux objectifs de développement durable, particulièrement les changements climatiques. Comme exemple, l’UAE a organisé en partenariat avec le tissu associatif, une caravane du développement durable du 1er février jusqu’au 7 décembre 2020: , période durant laquelle des ateliers thématiques ont été animés au sein des établissements de l’Université ainsi qu’au niveau des écoles, collèges et lycées de la RTTA pour sensibiliser notamment sur la contribution citoyenne aux Objectifs de Développement Durables et sur l’action climatique.
+Aussi, des filières de formation ont été développées au sein des établissements universitaires de la région portant sur « le Climat et la gestion des ressources hydriques » permettant de revisiter les concepts clés du changement climatique et de maîtriser les étapes essentielles du processus de l’intégration du changement climatique dans les politiques de développement et la planification budgétaire afin  de favoriser la mise en œuvre des actions  prioritaires d’adaptation et d’atténuation.
+Le Département du développement durable mène, de sa part, des formations de renforcement des capacités au profit des ONG régionales et locales qui œuvrent dans le domaine de la protection de l'environnement, du développement durable et de la lutte contre les changements climatiques, ainsi que pour les divers intervenants publics chargés de la gouvernance environnementale élus, universitaires, secteur public et journalistes.
+De même, une convention de collaboration entre la Direction Régionale de l'Environnement et l’UAE a été signée en 2022, visant définir un cadre général de coopération entre les deux parties dans l'objectif de développer des études et recherches, intensifier les actions communes à caractère scientifique et technique et renforcer les capacités locales dans le domaine de l'environnement.
+Dans le cadre de l’Initiative Entreprise Climat, des journées régionales « Entreprises et Changement Climatique » de sensibilisation et de formation ont été organisées à Tanger en partenariat avec le Centre 4C Maroc. Elles portent notamment sur les démarches climatiques à mener au niveau des entreprises.
+La RTTA a aussi connu la création de la Maison  du Développement Durable à Tanger, qui se veut un pôle de rencontres, de réflexions et d’innovations sur le développement durable dans la région, ainsi qu’une structure destinée à sensibiliser le grand public aux problématiques de l’environnement.
+Le programme de gestion des menaces du changement climatique 2018-2019 a aussi lancé des campagnes de sensibilisation des citoyens avec l’organisation d’événements concernant le changement climatique à l’instar de la  MEDCOP.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Relever les défis environnementaux", 
+"content": "Dans le cadre de l’appel à propositions de l’Union européenne Europeaid «Autorités Locales-partenariats pour des villes durables », le Conseil Régional de Tanger-Tétouan-Al Hoceima a présenté en 2020, en partenariat avec la Région-Provence-Alpes-Côte d’Azur, le projet SLEC : « Service Local Energie Climat : Outil de transition énergétique et climatique au service du développement urbain intégré », qui est un service d’intérêt général dont le rôle est de soutenir la transition énergétique et écologique  en associant les acteurs du territoire à travers des  actions de sensibilisation, de formation, de  conseil, de mobilisation territoriale, et qui prévoit la création d’un SLEC dans chacune des provinces et préfectures de la région.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Principaux défis", 
+"content": "Des mesures ont été mises en place en matière de lutte contre les changements climatiques, mais plusieurs défis sont à surmonter,  notamment ceux portant sur :  Le renforcement de la prévention contre les risques climatiques et la résilience de la population et des territoires ;
+Les difficultés en matière de convergence des stratégies et programmes menés par le secteur public, privé et la société civile et de coordination entre les institutions concernées par le changement climatique au niveau de la région ;
+La durabilité des actions, puisque certains projets réalisés sous tutelle des institutions de la région sont réalisés pour une période donnée et leurs services s’arrêtent avec l’achèvement de la durée du projet ;
+Le manque de moyens financiers, de synergie dans la mise en œuvre des plans d’actions ;  Le renforcement de l’écocitoyenneté à travers les programmes d’éducation, de sensibilisation et de communication ;
+L’assurance de l’équilibre entre le développement économique et social de la région et la lutte contre les changements climatiques.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Stratégies et programmes", 
+"content": "Outre la déclinaison des stratégies et programmes nationaux intégrant des mesures relatives aux changements climatiques, la région de Tanger-Tétouan-Al Hoceima a mis en place un certain nombre de plans et programmes. Il s’agit notamment du :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan Climat Territorial de la région de Tanger-Tétouan-Al Hoceima :", 
+"content": "S’inscrit dans le cadre de la déclinaison territoriale du Plan National de lutte contre le Réchauffement Climatique et constitue un outil de planification et de mise en œuvre de diverses mesures d’adaptation et d’atténuation pour la lutte contre le changement climatique. Il s’agit d’une feuille de route qui se veut structurante, participative, évolutive et adaptée au territoire régional afin de faire face aux problématiques de la région, atténuer les émissions des gaz à effet de serre GES: et assurer l’adaptation des territoires, de la population et des activités, et visant un développement à faible intensité de carbone et résilient aux effets du changement climatique.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 24 : Plan Régional d’Atténuation des émissions de GES 2021-2030:", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 25 : Plan d’Adaptation Prioritaire", 
+content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan régional d’adaptation du secteur de l’habitat au changement climatique 2020-2030", 
+"content": ":   Etabli pour le renforcement de la résilience du secteur de l’habitat face au changement climatique au niveau de la RTTA et proposer des mesures pertinentes d’adaptation. Ce plan a été élaboré selon une vision de planification et de coordination avec les parties prenantes régionales du secteur de l’habitat. Il est décliné en 6 axes stratégiques, notamment :  1: la promotion de la résilience au Changement climatique de l’habitat et des populations; 2: la consolidation de la gouvernance et de la coordination interinstitutionnelle ;  3: le renforcement des capacités des acteurs : éducation, formation, communication et sensibilisation;  4: la mise en place de mécanismes de financement durables et flexibles ;  5: le renforcement de la recherche – innovation, de la gestion des connaissances et du transfert de technologies ;  6: la promotion de la coopération régionale et internationale.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Schéma Régional de Préservation de l’Environnement et de lutte contre les Changements Climatiques", 
+"content": ":   Elaboré selon une approche participative impliquant l’ensemble des acteurs membres du réseau régional d’échange d’informations sur l’environnement et le développement durable, ce schéma a pour objectifs: 1: Identifier les enjeux environnementaux liés à la préservation des milieux naturels, avec une attention particulière à ceux liés aux changements climatiques, 2: Sauvegarder et restaurer les milieux naturels, ainsi que décliner les priorités de la stratégie nationale de développement durable au niveau de la région, 3: Proposer des axes d’amélioration des politiques, stratégies et mesures déjà entreprises par les pouvoirs publics au niveau régional, 4: Identifier les actions à mener au niveau régional pour prévenir et réduire toutes les formes de pollution et de nuisance, 5: Développer un programme d’actions et des mesures d’accompagnement sur le plan technique, institutionnel, législatif et réglementaire, ainsi qu’en matière de formation, de sensibilisation et d’information de nature à renforcer la préservation de l’environnement et la promotion du développement durable.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional du Littoral de Tanger-Tétouan-Al Hoceima :", 
+"content": "Consulter Encadré 28.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional d’Aménagement du Territoire de la Région de Tanger-Tétouan-Al Hoceima SRAT-TTA/Programme d’Actions du SRAT-TTA  2021-2046:", 
+"content": "Qui constitue un cadre régional de développement durable et cohérent entre les différents espaces de la région. Les actions du PA 2021-2046 sont intersectorielles, transversales et susceptibles de concerner plus d’un secteur à la fois  Consulter Encadré 18.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme de Développement Régional PDR: 2017-2022 :", 
+"content": "Le PDR intègre la dimension du changement climatique puisqu’il envisage le lancement de plusieurs projets, dont la création d’un pôle scientifique chargé des questions environnementales, la mise en place des programmes de valorisation des déchets, d’efficacité énergétique et de réhabilitation du littoral et l’élaboration du plan de gestion de risques. Il définit également un ensemble de programmes en matière de changement climatique dont :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme de gestion des menaces du", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"changement climatique", 
+"content": ": Avec une enveloppe financière de 10 MDH, ce programme vise à la réduction des impacts négatifs du changement climatique et la préservation des écosystèmes, ainsi que l’augmentation de l’impact des actions menées à travers la mobilisation et l’implication de l’ensemble des acteurs concernés  entreprises, citoyens, … etc. Le programme concerne différents thèmes :  La biodiversité dans le renforcement de la création d'espaces protégés, l’énergie dans le développement de la production d'énergies renouvelables non polluantes et les entreprises dans l’accompagnement et l’encouragement de la reconversion des entreprises polluantes. Pour le volet recherche et innovation, il comprend l’encouragement des travaux de recherche et/ou projets innovants portant sur les questions liées au réchauffement climatique.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Les Projets de prévention des catastrophes naturelles :", 
+"content": "Qui visent à prévenir, réduire et gérer les catastrophes naturelles et proposer des solutions aux problématiques de la pêche soulevées par le dauphin noir, d’une enveloppe financière de 400 MDH à l’horizon 2017-fin 2022.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 26 : Stratégie Nationale de Gestion des Risques des Catastrophes Naturelles  2020-2030:", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Evolution des indicateurs de l'ODD13", 
+"content": "13.1.1 | Cibles | Code indicateur | Indicateurs | Type de mesure | Col5 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | Valeur cible 2030 | |--------|----------------|------------|----------------|------|------|------|------|------|------|------|-----------------| | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Inondations | Personnes décédées | 0 | 0 | 0 | 0 | 0 | 0 | 29 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Inondations | Personnes blessées | 0 | 0 | 1 | 0 | 0 | 2 | 2 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Ecoulement de terrain | Personnes décédées | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Ecoulement de terrain | Personnes blessées | 0 | 0 | 0 | 0 | 0 | 1 | 1 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Effondrement de constructions | Personnes décédées | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Effondrement de constructions | Personnes blessées | 0 | 3 | 1 | 0 | 1 | 0 | 0 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Feux de forêts | Personnes décédées | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Feux de forêts | Personnes blessées | 2 | 0 | 0 | 0 | 19 | 2 | 2 | - | | 13.1 Renforcer, dans tous les pays, la résilience et les capacités d’adaptation face aux aléas climatiques et aux catastrophes naturelles liées au climat | Nombre de personnes décédées, disparues ou directement touchées lors de catastrophes | Feux de forêts | Superficies incendiées en ha | 1374 | 921 | 332 | 1428 | 4544 | 1484 | 1484 | - |  |13.2 Incorporer des mesures relatives aux changements climatiques dans les politiques, les stratégies et la planification nationales|13.2.2 | Indicateur | Col1 | Col2 | Col3 | Col4 | Col5 | Col6 | Col7 | |------------|------|------|------|------|------|------|------| | Total des émissions annuelles de gaz à effet de serre en GgeqCO2 | - | - | - | - | - | - | 7578 |",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Source", 
+"content": ": Commandement Régional de la Protection Civile - Direction Régionale de l’Environnement -Direction Régionale des Eaux et Forêts et la lutte contre la Désertification du Rif-Direction Provinciale des Eaux et Forêts et la lutte contre la Désertification d’Al Hoceima",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CC\\output_CC.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"ODD 12 : Consommation et production responsables", 
+"content": "A l’instar de l’ensemble du pays, l’essor démographique et économique, notamment industriel que connaît la région de Tanger-Tétouan-Al Hoceima, constitue une source de pressions plus au moins importante sur les ressources naturelles et l’environnement, et risque de compromettre un développement durable et une croissance soutenue. La région s’est ainsi inscrite dans la dynamique nationale de transition vers des modes de consommation et de production durables, par le biais de plusieurs mesures privilégiant, entre autres, une utilisation rationnelle des ressources et une gestion judicieuse des déchets afin d’atténuer l’impact sur l’environnement, mais des contraintes en matière de financement, de technologie et de renforcement de capacités restent à surmonter.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Etat de mise en œuvre", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Actions en faveur de la Consommation et la Production durable", 
+"content": "Si au niveau national, un Plan Cadre National sur  les Modes de Consommation et de Production  Durables (MCPD) a été élaboré, en plus de deux plans sectoriels : « Eco-construction et bâtiment durables » et « Agriculture et alimentation durables », à l’échelle de la RTTA, des actions et  initiatives sont mises en place pour promouvoir les MCPD. Ainsi, des initiatives sont mises en  place pour améliorer les performances thermiques des bâtiments dans l’objectif de produire une nouvelle génération de constructions plus rationnelles et économes en matière de consommation énergétique. L’Agence Urbaine d’Al Hoceima par exemple, favorise le développement des conceptions architecturales qui utilisent au mieux les apports solaires, la ventilation naturelle et l’utilisation des  énergies renouvelables, de même, des architectes  relevant de la RTTA ont bénéficié de formations  sur les exigences fixées par le Règlement thermique de construction au Maroc (RTCM) et leur application sur l’outil de contrôle Binayat Prescriptive et Performancielle. Pour la mobilité et le transport, on cite le développement et  l’animation de modules de formations de  formateurs sur l’éco-conduite au profit des formateurs relevant de l’OFPPT/région, ou l’incitation au renouvellement du parc des véhicules de transport routier professionnel d’âge supérieur à 15 ans dans le cadre de laquelle plus de 3000 primes [68] ont été octroyées.
+Aussi, 12 entreprises pilotes au niveau RTTA ont bénéficié du projet Test Med, financé par l’Union Européenne, qui a pour finalité de  faciliter la transition vers des MCPD dans la  région de la Méditerranée. Il consiste à accompagner ces entreprises pour la réalisation d’études et l’introduction d’outil permettant d’économiser les ressources (eau, énergie et matières premières), de mettre en place des actions de production plus propres, ou encore des méthodes de recyclage des déchets industriels, d’atténuer l’impact de leur activité sur  l’environnement et de transférer la meilleure  technologie respectueuse de l’environnement. Les entreprises industrielles doivent mettre en place une politique intégrée leur permettant d’améliorer la situation économique et  environnementale et de réduire les coûts de  production par l’adoption des concepts de  Production Durable.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Gestion durable des ressources naturelles", 
+"content": "Si l’observation et le suivi de l’état de  l’environnement constitue un facteur essentiel  dans la gestion durable des ressources naturelles, la région a été concernée, en 2019, par l’élaboration du rapport sur l’état de l’environnement, s’inscrivant dans le processus de rapportage initié à l’échelle nationale. Depuis 2017, le système d’information régional de l’environnement et du développement durable de la région de Tanger-Tétouan-Al Hoceima a été mis en place permettant de suivre les  indicateurs de l’état de l’environnement au  niveau territorial. Aussi, un réseau régional pour la collecte et le partage des données et des  indicateurs environnementaux de la RTTA a été  créé par arrêté gouvernemental en 2019.
+En vue d’assurer une gestion durable des ressources naturelles, plusieurs projets sont menés en matière de promotion des énergies renouvelables, de préservation de ressources hydriques, halieutiques ou forestières. Comme exemples la région abrite, en 2021, 9 stations d’épuration opérationnelles dont deux assurent le traitement pour la réutilisation des eaux usées épurées à des fins d’arrosage des espaces verts et des terrains de golfs, (1,6 Mm [3 ] des eaux épurées ont été réutilisées en 2021). La région compte aussi 2 stations de prétraitement (STREP) ayant traité 90,4 Mm [3 ] des eaux usées en 2021 avant leur rejet dans le littoral par le biais d’émissaires marins. De même, des progrès notables ont été réalisés en matière d’énergies renouvelables, particulièrement éolienne pour laquelle la région en dispose d’un potentiel important et abrite ainsi 5 parcs éoliens.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Gestion des déchets ménagers et assimilés", 
+"content": "Avec une quantité des déchets ménagers et assimilés (DMA) estimée à 800000 tonnes/an, la RTTA figure parmi les quatre régions du Royaume qui produisent la plus grande quantité des déchets ménagers et est classée quatrième avec 8% de la production des déchets plastiques [69] . Jusqu’en août 2022, dans le cadre du Programme National des Déchets Ménagers (PNDM), cinq Plans Directeurs Provinciaux de Gestion des Déchets Ménagers ont vu le jour à la région, précisément dans la Préfecture de Tanger-Asilah, la Province de Fahs-Anjra et les provinces d’Al Hoceima, Larache, Ouazzane et Tétouan, alors que ceux des deux provinces restantes (Chefchaouen et M’diq-Fnideq) sont en cours d’étude. Aussi, la situation des décharges au niveau de la région peut être résumée comme suit :
+Nombre de décharges publiques sauvages réhabilitées et fermées : 10 Nombre de décharges publiques sauvages en cours de réhabilitation pour fermeture : 1 Nombre de décharges publiques sauvages prévues pour fermeture et réhabilitation : 11  Nombre de Centres d’Enfouissement et de Valorisation : 4  Nombre de Centres d’Enfouissement et de Valorisation en cours de construction : 1  Nombre de Centres d’Enfouissement et de Valorisation programmés : 3
+Ainsi le taux de collecte professionnalisé des déchets en milieu urbain s’est élevé à 97% [70] en 2019 dépassant ainsi l’objectif de 90% visé pour l’année 2020, contre 95 % au niveau national. Le taux d’enfouissement dans les CEV de la région a évolué de 3,8% en 2016 à 66% en 2021, contre 63% [71] au niveau national.
+Le tri et le transfert (via les centres de transfert) des déchets ménagers vers les nouveaux CEV contribuent à la réduction des volumes des  déchets et de certains effets négatifs sur l’environnement. La région a ainsi été dotée d’un centre de tri des déchets ménagers basé à la décharge contrôlée d’Al Hoceima, alors qu’un centre est en cours de réalisation au nouveau  CEV de Tétouan et un autre est en projet au niveau du CEV de Tanger. De même, un centre de transfert des déchets ménagers et assimilés a été mis en place à la préfecture de TangerAssilah, alors qu’un deuxième centre y est en cours de construction.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Pollution Industrielle", 
+"content": "Le gisement des déchets industriels, estimé à 660,6 mille tonnes en 2015 à la région, s’accroitra d’une manière importante pour atteindre 1,7 million de tonnes à l’horizon 2030 [72] . Des actions  sont entamées pour réduire la pollution générée par les unités industrielles : Comme exemples la mise en place d’une STEP qui assure le traitement tertiaire des eaux usées générées par les unités industrielles implantées dans les zones d’activités «Tanger Free Zone» alors qu’une autre est prévue pour la zone «Tanger Automotive City». Les déchets industriels banals du complexe portuaire Tanger Med sont traités et recyclés dans les zones d’activités du complexe, celui-ci abrite aussi une station dédiée au traitement des déchets dans le complexe portuaire, notamment les déchets dangereux en  fin de vie comme ceux associés aux eaux  hydrocarburées avec une capacité de traitement équivalente à 100% des déchets dangereux générés. D’autre part, la RTTA compte 5 sociétés de collecte et transport des déchets dangereux et 2 installations autorisées pour le traitement de ce type de déchets.
+Le nombre total des unités industrielles isolées et  à caractère polluant, dont les rejets se déversent directement dans le milieu naturel, s’élève à près de 190 unités, parmi eux 170 huileries qui constituent la branche la plus polluante. La pollution globale engendrée par l’activité industrielle isolée (principalement les huileries), est évaluée à 23250 tonnes DBO5/an, 91893  tonnes DCO/an et 9729 tonnes MES/an.  L’ABHL a entrepris, dans la cadre de partenariat, deux projets pilotes pour la dépollution de deux  huileries : Une moderne et une semi moderne.  Ainsi, deux stations de traitement des margines ont été réalisées à Ouezzane, alors que deux stations sont programmées à Chefchaouen et Ouezzane. Des campagnes de contrôle des rejets liquides engendrés par les huileries sont menées avec application de la réglementation en vigueur.
+Par ailleurs, des zones de recasement seront mises en place à la ville de Tanger dans le cadre des actions entreprises pour délocaliser les opérateurs industriels exerçant dans des locaux non autorisés ou inadaptés, de nature à engendrer des risques multidimensionnels
+Aussi, une convention de partenariat a été signée, en 2021, entre la CGEM-TTA et les cinq associations représentant les zones industrielles de Tanger pour le lancement d’une étude de terrain sur la gestion et la valorisation des déchets industriels, financée par la Société de Financière Internationale (SFI)-Filiale de la Banque mondiale, en vue d’analyser la qualité et quantité des déchets industriels et examiner les moyens de leur valorisation et exploitation pour  instaurer les bases d’une économie circulaire  fondée sur le recyclage. Dans le même sens, les opérateurs du secteur Textile et Cuir bénéficient de l’accompagnement de la part de la Banque Européenne d’Investissement (BEI) dans leur objectif de décarbonation. La BEI contribuera à travers des études, à la mise en place de meilleures pratiques de gestion des trois zones d’activités économiques lancées à Tanger.
+Pour les déchets issus des activités de l’artisanat, un projet est en cours de réalisation pour la mise en place d’une zone dédiée à contenir les métiers d’artisanat polluants et gênants au niveau de la ville de Tanger.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Exemples de RSE", 
+"content": "Le Groupe Tanger Med, en déployant une démarche de Responsabilité Sociétale des Entreprises (RSE), a reçu le Label RSE octroyé par la Confédération Générale des Entreprises au Maroc (CGEM), il est aussi le premier port non européen à recevoir le label EPSO (EuropeanSea Ports Organisation) primant le système de gestion environnementale du groupe. En effet, celui-ci adopte des pratiques viables suivant une stratégie environnementale qui repose principalement sur le principe de l’économie verte et de l’économie circulaire, mis  en place par les industriels installés dans les zones d’activités « Tanger Free Zone » et « Tanger Automotive City ».",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Education et Sensibilisation", 
+"content": "L’éducation et la sensibilisation constituent aussi  un moyen pour initier les citoyens aux MCPD, en commençant par les enfants et les jeunes. Des efforts sont ainsi déployés pour intégrer l’éducation environnementale dans le processus éducationnel. Parmi les programmes initiés, le programme international Éco-Écoles (6-12 ans) mené par la Fondation Mohammed VI pour la  Protection de l’Environnement dans le cadre  duquel 269 écoles primaires y sont inscrites dans la région, ou la création des clubs  environnementaux dans les établissements  scolaires, dont le nombre s’élève à 885 clubs.  Des cursus universitaires ont aussi été  développés dans la région portant notamment sur le génie éco énergétique et l’environnement industriel, le génie du littoral, la gestion environnementale et le développement durable. Aussi, une caravane du développement durable a été organisée en 2020 par l’UAE en partenariat avec la société civile, englobant des thématiques sur la contribution citoyenne aux ODD, l’efficacité énergétique et les énergies renouvelables, animés au sein des établissements  de l’Université ainsi qu’au niveau des écoles, collèges et lycées de la région. De même, une convention de partenariat a été conclue entre l’UAE et une société chargée de la gestion intégrée des déchets domestiques, en vue de promouvoir la culture environnementale auprès des jeunes, l’instauration d’un échange mutuel pour la promotion des projets de recherche et d’initiation en matière de gestion et valorisation des déchets, puis la coordination et la planification de programmes de sensibilisation en vue de rehausser le niveau de propreté au niveau de la RTTA. L’ABHL programme de sa part annuellement des actions de sensibilisation au profit des citoyens, portant sur l’importance de la préservation des ressources en eaux dans la zone.
+La société civile joue aussi un rôle important en matière de sensibilisation aux thématiques de développement durable, en organisant des rencontres et séminaires sur la protection de l’environnement, le développement durable, la préservation des ressources en eau, la gestion des déchets, etc. Aussi, dans le cadre de la  coopération bilatérale maroco-allemande, des  sessions de sensibilisation et de renforcement de  capacités ont bénéficié à plus de 120 cadres représentant les administrations et les établissements publics, les collectivités locales et les ONG sur des thématiques telles que le dessalement de l’eau de mer, la gestion des eaux usées et des déchets, le mécanisme de  développement propre, les études d’impact sur l’environnement, etc.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Principaux défis", 
+"content": "Afin d’établir des modes de consommation et de  production durables, plusieurs actions ont été menées et nombreux projets ont été réalisés dans la RTTA. Cela dit, il est important de signaler que de multiples défis restent à relever dans l’objectif de concilier entre production, consommation et développement durable et d’inscrire la dynamique économique et touristique de la région dans une trajectoire  d’économie verte et circulaire. Parmi les défis :
+L’instauration d’une gestion durable des  plateformes industrielles, l’émergence de  nouvelles filières industrielles « vertes » et la  création de métiers « verts » ;
+L’instauration d’une gestion intégrée des déchets  pour mettre en œuvre une économie circulaire et faire émerger de nouvelles filières de valorisation, et impliquer le secteur informel dans la gestion et le recyclage des déchets ;
+La préservation de la qualité de l’eau et la lutte  contre la pollution ;
+La responsabilisation et l’accompagnement des  entreprises tout au long de leurs processus de consommation et production et la sensibilisation des citoyens vis-à-vis de leur mode de  consommation ;
+La promotion de l’innovation et de la recherche  et la garantie des moyens scientifiques, techniques et financiers.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Stratégies et programmes", 
+"content": "En parallèle aux Stratégies et Programmes nationaux, des programmes régionaux portant  sur les modes de consommation et de  production durable sont aussi initiés à la région,  dont notamment :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional d’Aménagement du Territoire de la Région de Tanger-Tétouan-AlHoceimaSRAT-TTA", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme d’Actions du SRAT-TTA (2021-2046) :", 
+"content": "Qui constitue un cadre régional de développement durable et cohérent entre les différents espaces de la région. Les actions du PA 2021- 2046 sont intersectorielles, transversales et susceptibles de concerner plus d’un secteur à la fois (Consulter Encadré 18).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plans Directeurs provinciaux ou préfectoraux des déchets ménagers et assimilés", 
+"content": ": Qui s’inscrivent dans le cadre du Programme National de Déchets Ménagers (Consulter Encadré 21).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme National de Déchets Ménagers:", 
+"content": "Lancé en 2008 en vue d’assurer la collecte des  déchets ménagers pour atteindre un taux de  collecte en milieu urbain de 90% en 2020 et  100% en 2030, réaliser des décharges contrôlées des déchets ménagers et assimilés au profit de tous les centres urbains (100%) et réhabiliter et fermer toutes les décharges sauvages (100%) à l’horizon 2022. Il vise aussi à développer la filière de « tri-recyclage-valorisation » pour atteindre un taux de recyclage de 20% et valorisation d’au moins 30% des déchets générés, généraliser les plans directeurs préfectoraux et provinciaux de gestion des déchets ménagers et assimilés et  former et sensibiliser tous les acteurs concernés  sur la problématique des déchets.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan d’Atténuation des émissions de GES", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"(2021-2030) de la région de Tanger-Tétouan-Al Hoceima :", 
+"content": "Qui comprend des actions de valorisation des pneus usés, des boues de STEP, des déchets ménagers, de grignons d’olives et des cendres volantes. (Consulter Encadré 24).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 23 : Programme National de Valorisation des Déchets", 
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme National d’Assainissement Mutualisé PNAM", 
+"content": ":  Parmi ses objectifs la construction de stations d’épuration des eaux usées (STEP) qui permettront, de dégager des ressources hydriques non conventionnelles. (Consulter Encadré 11).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme de collecte des sacs en plastique :", 
+"content": "Le Département de l'Environnement mène en partenariat avec le Ministère de l’Intérieur le Programme National  de Collecte et l’Elimination des Sacs en  Plastique. Ce programme a pour objectifs la collecte et l’élimination des sacs en plastique, puis la sensibilisation de la population à l’usage rationnel des sacs en plastique et à l’utilisation d’autres produits alternatifs.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Pacte de l’Exemplarité de l’Administration PEA (2019-2021)", 
+"content": ": Lancé dans le cadre de l’opérationnalisation de la SNDD, ce pacte vise à inciter les institutions publiques à donner l’exemple et à adopter des démarches écoresponsables à travers notamment une gestion rationnelle des ressources, l’introduction de la  mobilité durable et la mise en place d’une politique d'achats publics durables.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Evolution des indicateurs de l'ODD12", 
+"content": "| Cibles | Code indicateur | Indicateurs | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | Valeur cible 2030 | |--------|----------------|------------|------|------|------|------|------|------|------|------|-----------------| | 12.5 D’ici à 2030, réduire nettement la production de déchets par la prévention, la réduction, le recyclage et la réutilisation | 12.5.1 | Taux de collecte professionnalisé des déchets ménagers (%) (milieu urbain) | - | - | - | - | - | 97 | - | - | - | | 12.5 D’ici à 2030, réduire nettement la production de déchets par la prévention, la réduction, le recyclage et la réutilisation | 12.5.1 | Taux d’enfouissement dans les CEV (%) | - | - | 3,8 | - | - | - | - | 66,0 | - | | 12.a Aider les pays en développement à se doter des moyens scientifiques et technologiques qui leur permettent de s’orienter vers des modes de consommation et de production plus durables | 12.a.1 | Puissance installée du parc d’énergie renouvelable (en watts par habitant) | 89,5 | 88,4 | 87,3 | 86,3 | 85,2 | 116,1 | 114,7 | 113,4 | - |
+Source : Direction Régionale de l’Environnement - Rapport sur l’état de l’environnement avec un focus sur les changements climatiques- Direction Régionale de la Transition Energétique et du Développement Durable", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\CP\\output_CP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"ODD 6 : Eau propre et assainissement", 
+"content": "La région de Tanger-Tétouan-Al Hoceima est traversée par d’importants cours d’eau et enregistre un niveau élevé de pluviométrie, ce qui lui confère un potentiel hydraulique en eau renouvelable de premier ordre estimé à environ 4 milliards de m [3] /an. Elle dispose d’une importante infrastructure hydraulique composée actuellement de 13 grands barrages [33] d’une capacité de retenue de 1,72 milliards de m [3], alors que 2 autres grands barrages sont en cours de réalisation d’une capacité de 278 Mm [3] . D’autre part, elle connaît un essor démographique et économique dans divers domaines : Industriels, touristiques, agricoles et halieutiques, c’est pourquoi elle fait face à une pression de plus en plus accrue sur les ressources hydriques que ce soient en termes de disponibilité ou de qualité. De notables avancés ont été réalisées au niveau de la région quant à la gestion des ressources hydriques, du développement des services d’assainissement et de la protection des écosystèmes liés à l’eau, mais elle reste encore confrontée à des défis importants qu’il faudra surmonter.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Etat de mise en œuvre", 
+"content": "33 Non compris les barrages dont le volume est inférieur à 1 million de m 3",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Accès quasi-généralisé à l’eau potable", 
+"content": "L’approvisionnement en eau potable est désormais sécurisé à la région, fruit du développement des infrastructures de mobilisation, de production et de distribution d’eau. En effet, grâce aux efforts consentis, l’accès à l’eau potable est généralisé en milieu  urbain et le taux de raccordement au réseau d’eau  potable y est de 97,4% [34] en 2021, contre 95,2% en 2017. L’accès à l’eau potable en milieu rural a aussi largement évolué passant de 90% en 2018 à 95% en 2021 [35] . De nombreux programmes ont permis cette évolution, partant du PAGER lancé en 1995, du PNAEP, à l’INDH (phase III) dans le cadre de laquelle 9 projets ont été réalisés en la matière entre 2019 et 2022, bénéficiant à une  population de 11204 personnes pour un montant de 16,83 MDH, en plus du PRDTS qui a permis la réalisation de 24 projets d’alimentation en eau potable bénéficiant à 175000 habitants, pour un  investissement de 518 MDH entre 2017 et 2021.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Graphique10 : Taux d’accès à l’eau potable en milieu rural RTTA", 
+"content": "95,0% 94,5%
+2018 2019 2020 2021
+Source : ONEE-Branche Eau
+Pour satisfaire la demande accrue en eau potable, la région est dotée de 10 stations de traitement et  d’une station de dessalement. Le volume des eaux  traitées s’est élevé à 167,9 millions de m [3] à fin 2021 dont 1,31 million de m [3] dessalées.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Accès à l’assainissement en amélioration", 
+"content": "Les enjeux liés à l’amélioration du service d’assainissement concernent premièrement l’hygiène et la santé publique mais également le développement économique et touristique de la région. D'importants progrès ont été consentis en cette matière grâce au Programme National d’Assainissement (PNA) lancé en 2006 dans le cadre duquel 41 projets [36] ont été réalisés durant la période 2015-2021. Le PNA a été renforcé depuis 2019 par le lancement du programme National d’Assainissement Mutualisé (PNAM), qui regroupe, en plus du PNA, le Programme  National d'Assainissement en milieu Rural  (PNAR) et le Programme National de Réutilisation des Eaux Usées Épurées (PNREUE).
+Le PNAM vise l’amélioration du taux de  raccordement au réseau d’assainissement aussi  bien au niveau des villes qu’au niveau des chefslieux des centres ruraux. En effet, ce taux est passé de 64,8% en 2017 à 70,8% en 2021 [37] à la RTTA.
+Mais si le raccordement au réseau public d’assainissement liquide est presque généralisé en milieu urbain avec un taux de 97,8% [38] en 2021, il  reste néanmoins très faible en milieu rural vu la  nature du relief et la dispersion des habitations en n’atteignant que 10,9% en 2021 contre 3,3% en 2017 [39] . Ainsi, d’autres modes d’assainissement y prédominent comme les fosses septiques ou les puits perdus.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Qualité de l’eau bonne en général", 
+"content": "En termes de qualité de l’eau, le réseau de surveillance et de mesures de qualité des eaux de  surface est constitué de 65 stations situées à des  endroits stratégiques au niveau des cours d’eau et  de 25 stations situées au niveau des 13 retenues  des barrages. Pour le suivi de la qualité des eaux souterraines, 74 stations sont réparties sur les 11 principales nappes [40] .
+Les campagnes de prélèvement ont montré, qu’en 2021, 82% des stations échantillonnées des eaux superficielles et 78% des eaux souterraines présentent une eau de qualité de bonne à moyenne, alors que la qualité des eaux de l’ensemble des retenues des barrages est très  bonne.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Graphique11 : Proportion des stations des eaux superficielles dont la qualité est bonne à moyenne, RTTA", 
+"content": "82%
+2017 2018 2019 2021
+Source : Agence du Bassin Hydraulique du Loukkos
+Les eaux de surface de mauvaise qualité sont principalement situées en aval des rejets urbains et industriels. En effet, la qualité et la pérennité des ressources hydriques sont constamment menacées par des problèmes environnementaux qui résultent du rejet des eaux usées domestiques et industrielles, ainsi que des décharges publiques  non contrôlées. Plusieurs actions sont entamées  afin de préserver la qualité des eaux superficielles et réduire la pollution, comme la mise en place de  deux stations collectives de traitement des  margines engendrées par l’activité des huileries à Ouezzane, et la programmation de deux autres au niveau de Chefchaouen et Ouezzane [41] . De même,  plusieurs efforts sont focalisés sur l’organisation des campagnes de sensibilisation au profit des propriétaires des huileries, en réalisant des campagnes de contrôle des rejets liquides qui en sont causés et en appliquant les mesures exigées par la réglementation en vigueur conformément  à la loi 36-15 sur l’eau.
+D’autres actions d’amélioration de la qualité des  eaux souterraines sont mises en œuvre comme la  réalisation du contrat de nappe au niveau de la nappe de Rmel, CharfAkkab et Nekour et la limitation des prélèvements afin d’éviter l’avancement du biseau salé pour les deux nappes  de Smir et Martil.
+Pour préserver la qualité des eaux et lutter contre la pollution générée par le déversement direct des eaux usées dans le milieu naturel, la région abrite 9 stations d’épuration opérationnelles d’une capacité d’épuration globale de 109829m [3] /j et deux stations de prétraitement (SPRET) permettant de traiter les eaux usées avant le rejet dans le littoral, d’une capacité de 296000m [3] /j [42] .  Le volume des eaux usées collectées dans les  STEP et SPRET de la région s’élève respectivement à 14,5 et 90,4 [43] Mm [3] en 2021, à un moment où la capacité d’épuration est appelée à s’améliorer puisque quatre STEP sont en cours de réalisation à la région, ce qui accroîtra la capacité de 1743m [3] /j supplémentaires.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Des avancées pour l’utilisation rationnelle de l’eau", 
+"content": "La rationalisation de l’utilisation de l’eau  constitue un axe fondamental de la stratégie nationale de l’eau. Elle passe par la mobilisation des eaux non conventionnelles, la gestion des eaux d’irrigation et la lutte contre le gaspillage de l’eau.
+Sur cet aspect, la RTTA a connu la mise en service d’une station de dessalement des eaux de mer à Al Hoceima qui vise le renforcement de l’alimentation en eau potable de la ville d’Al Hoceima et des localités avoisinantes, d’une capacité de production de 200 l/s.
+De même, la réutilisation des eaux usées épurées, qui s’inscrit dans le cadre du Programme National d’Assainissement Liquide, a pour objectifs de préserver les ressources en eau et contribuer au développement touristique. Dans ce sens, la région abrite deux STEP qui assurent le  traitement tertiaire des eaux usées en vue de leur  réutilisation pour l’arrosage des espaces verts et des golfs. Le volume des eaux usées traitées et mobilisées pour la réutilisation a atteint 1,6 Mm [3] en 2021. A cet effet, une convention de  partenariat a été signée avec 11 institutions publiques pour la réutilisation des eaux usées épurées pour l’arrosage des golfs et des espaces verts et niveau des villes de Tanger, Tétouan, Martil et Fnideq.
+Pour la mobilisation des eaux pluviales, on note l’étude du Schéma directeur de captage et d’exploitation des eaux de pluie dans la zone d’action de l’ABHL élaborée en 2016. De même,  deux projets pilotes de collecte des eaux pluviales  ont été réalisés.
+Pour la gestion rationnelle des eaux d’irrigation, le Plan Maroc Vert a mis en place le programme national d'économie d'eau en irrigation (PNEEI), qui vise la modernisation des systèmes d’irrigation à travers la reconversion à l'irrigation localisée et l’amélioration de la productivité de l’eau et sa valorisation. Une superficie de 33159 Ha est équipée par le système d’irrigation en goutte à goutte dont 23000 ha réalisés dans le cadre du PNEEI au profit de 7000 bénéficiaires. Larache en occupe la première place avec une superficie équipée de 31088 ha. Comme résultats, la région a économisé plus 60 Millions de m [3] par an.
+La nouvelle stratégie « Génération Green » vient consolider les efforts consentis dans le cadre de la modernisation, la rationalisation et la valorisation de l’eau qui concerne une superficie additionnelle totale de 38150 ha.
+En matière de lutte contre le gaspillage de l’eau, la police de l’eau, relevant des agences des bassins hydrauliques renforce son action pour la surveillance du domaine public hydraulique et sa protection contre toute utilisation illégale. En outre, des dispositions réglementaires importantes visant la préservation de cette ressource ont été prises dans le cadre de la loi sur l’eau 10-95.
+Aussi, le taux de rendement global du réseau d’alimentation en eau potable dans les grandes villes de la région est de 76% [44], en vue d’atteindre 79% à l’horizon 2025.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Gestion intégrée de l’eau instaurée",
+"content": "Dans le cadre de l’adoption d’une démarche de planification et de gestion intégrée de l’eau, 2 agences de Bassins hydrauliques œuvrent sur le territoire régional, à savoir, l’ABH du Loukkos et l’ABH de Sebou. Ces agences ont pour missions d’accompagner la demande croissante sur les ressources hydriques et garantir la sécurité en eau, permettant de faire face aux retombées environnementales et de s’adapter aux effets des changements climatiques. De même, en application de la loi 36-15 sur l’eau, les conseils  consultatifs au niveau l’ABHL et l’ABHS ont été  instaurés, ce qui leur permettra de donner avis sur les plans d’actions de gestion des ressources en eau (PDAIRE et Plans locaux de gestion des eaux) et de prévention des phénomènes extrêmes, ainsi que la proposition des redevances de l’exploitation du domaine publique hydraulique.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Protection et restauration des écosystèmes liés à l’eau",
+"content": "En matière de protection et restauration des écosystèmes liés à l’eau, le Plan National de l’Eau 2020-2050 envisage la préservation des ressources en eau et des écosystèmes, ainsi que l’amélioration de la gestion face aux phénomènes météorologiques extrêmes en particulier les inondations et les glissements des terrains. Le  Plan National de Protection contre les  Inondations (PNI) a été établi dans ce cadre afin de proposer des mesures permettant l’adaptation aux risques réels et potentiels liés à ces phénomènes météorologiques et améliorer ainsi la protection des personnes et des biens contre les inondations. Ainsi, l’inventaire des sites  présentant un risque d’inondation dans la région a permis de recenser 96 sites [45] dont 52 sont de degrés élevé à très élevé. Parmi les 90 points noirs dénombrés dans la zone d’action de l’ABHL, 51  points sont traités totalement ou partiellement.
+Dans l’objectif de moderniser et développer un système d’alerte précoce des inondations à travers lequel les autorités compétentes sont informées, l’ABHL a lancé, en 2021, le projet relatif à l’amélioration de la plateforme d’alerte précoce aux crues et de la gestion du domaine public hydraulique à travers l’utilisation de la télédétection, avec la contribution du Fonds de  lutte contre les effets des catastrophes naturelles.
+Aussi, 1,03 MMDH a été mobilisé entre 2015 et  2020 pour la réalisation de travaux de protection contre les inondations à la région.
+Pour prévenir des risques d’inondation dans les zones déléguées au niveau de Tanger et Tétouan, la saison hivernale est préparée chaque année en mettant en place des actions pour drainer les eaux pluviales. Une cellule de crise est aussi mise à la disposition des citoyens pour traiter leurs réclamations et gérer les conséquences des fortes averses.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Principaux défis",
+"content": "A cause de la forte pression sur les ressources en eau, l’irrégularité de l’hydraulicité et l’accentuation des phénomènes extrêmes, le  secteur de l’eau dans la RTTA se trouve soumis à  plusieurs défis malgré les avancées réalisées :
+La sécurisation actuelle et future de  l’approvisionnement en eau potable face à une augmentation significative de la demande ;  La consolidation des acquis de l’agriculture  irriguée et durable face à une tendance à la baisse des ressources en eau et l’augmentation progressive de la demande en eau potable induisant des difficultés d’approvisionnement en eau de certains périmètres irrigués ;  La gestion durable des eaux souterraines dans la  zone face aux problèmes de surexploitation, de la pollution et de l’intrusion marine ;  La préservation du patrimoine en infrastructure  hydraulique de l’ABHL dont 47% présentent un âge avancé supérieur à 30 ans, et plus de 60% dépassent 20 ans d’existence, contre la contrainte d’envasement et la dégradation des performances de ses ouvrages annexes ;  La protection de la population et des biens  contre les inondations, ce phénomène est aujourd’hui ressenti de manière de plus en plus forte en raison, d’une part, des changements climatiques, et d’autre part, du développement démographique, économique et urbanistique que connaît la région ;  La préservation de la qualité de l’eau et la lutte  contre les sources de pollution ;  La rationalisation de la consommation de l’eau ;  Les particularités du milieu rural régional  caractérisé par des reliefs accidentés et par la dispersion des habitations, rendant difficile, coûteux sinon impossible les branchements individuels aux réseaux d’eau potable et d’assainissement.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Stratégies et programmes",
+"content": "Les progrès atteints en matière d’accès aux  services d’alimentation en eau et assainissement  ainsi qu’en matière de gestion durable de l’eau, découlent de la mise en place d’un ensemble de programmes. On cite notamment :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme National d’Approvisionnement en Eau Potable PNAEP (2022-2024) :",
+"content": "Ce programme vise l’amélioration du taux d’accès en eau potable en milieu rural et par conséquent, l’amélioration des conduites d’hygiène et sanitaire de la population concernée ainsi que la lutte contre la déperdition scolaire. Au niveau de la région, ce programme, d’un coût global de 874,1 MDH et qui concerne 453 localités, est scindé en 3 composantes :
+ L’AEP par branchements individuels pour 27  centres avec un coût de 89,3 MDH ;  L’AEP de 209 douars par bornes fontaines,  avec un coût de 661,5 MDH ;  L’AEP de 217 douars à travers des points d'eau  aménagés pour un coût global de 123,3 MDH.", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme de Développement Intégré PDI (2022-2026) :",
+"content": "Ce programme, en cours de validation, vise la généralisation et le renforcement de l’AEP en milieu rural pour la période 2022-2026. Le programme proposé au niveau de la région consistera en la réalisation des projets suivants :
+L’AEP par branchements individuels de 102  centres et douars, pour un coût global de 116,9  MDH.  L’AEP de 76 douars par bornes fontaines, pour  un coût global de 108,5 MDH.  L’extension de réseaux d’eau potable au niveau
+de 3 communes avec un coût de 5 MDH.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"L’Initiative Nationale de DéveloppementHumain",
+"content": "dans sa 3 [ème] phase, à travers son programme « Rattrapage des déficits en infrastructures et services sociaux de base »,  particulièrement la réalisation de projets d’alimentation en eau potable.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional d’Aménagement du Territoire de la Région de Tanger-Tétouan-AlHoceimaSRAT-TTA",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programmed’Actions du SRAT-TTA (2021-2046) :",
+"content": "Qui constitue un cadre régional de développement durable et cohérent entre les différents espaces de la région. Les actions du PA 2021- 2046 sont intersectorielles, transversales et susceptibles de concerner plus d’un secteur à la fois (Consulter Encadré 18).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme de Réduction des Disparités Sociales et Territoriales en Milieu Rural PRDTS (2017-2023) :",
+"content": "(Consulter Encadré 19).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 9 : Programme National d’Approvisionnement en Eau Potable et d’Irrigation (2020-2027)",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 10 : Le programme d’extension de",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"l’irrigation (PEI) :",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme National d'Economie d'Eau en Irrigation (PNEEI) du Plan Maroc Vert",
+"content": ": Dont l’objectif est la gestion rationnelle des eaux d’irrigation et la modernisation des systèmes d’irrigation à travers la reconversion à l'irrigation localisée et l’amélioration de la productivité de l’eau et sa valorisation. Une superficie de 23000 ha a été équipée par le système d’irrigation en goutte à goutte au niveau de la région.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Plan Agricole Régional Génération Green 2020-2030 :",
+"content": "Qui prévoit une superficie irriguée additionnelle de 38150 ha répartie comme suit :
+L’équipement collectif des périmètres en  cours d’aménagement, des périmètres d’extension de l’irrigation à l’aval des barrages sur une superficie totale de 13600 ha, y compris le projet Tassift.  La Poursuite de l’équipement individuel en  irrigation localisée selon un nouveau schéma d'incitations intelligentes et ciblées, avec un rythme annuel de 1255 ha pour atteindre en 2030 une superficie supplémentaire équipée  de 12550 ha.  Poursuite et achèvement du programme  PNEEI sur une superficie de 18450 ha.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Encadré 11 : Le Programme National d'Assainissement Mutualisé (PNAM)",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme de lutte contre les inondations",
+"content": ":  Un plan d’action basé sur une vision intégrée incluant les priorités et les mesures à prendre permettant l’adaptation aux risques réels et potentiels liés à ces phénomènes météorologiques et améliorer ainsi la protection des personnes et des biens contre les inondations.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Evolution des indicateurs de l'ODD6",
+"content": "|Cibles|Code<br>indicateur|Indicateurs|Col4|2014|2016|2017|2018|2019|2020|2021|Valeur<br>cible<br>2030| |---|---|---|---|---|---|---|---|---|---|---|---| |6.1 D’ici à 2030, assurer l’accès universel et<br>équitable à l’eau potable, à un coût abordable|6.1.1|Proportion de la<br>population utilisant des<br>services d’alimentation en<br>eau potable gérés en toute<br>sécurité|Urbain46|90,3|-|95,2|-|96,3|-|97,4|100| |6.1 D’ici à 2030, assurer l’accès universel et<br>équitable à l’eau potable, à un coût abordable|6.1.1|Proportion de la<br>population utilisant des<br>services d’alimentation en<br>eau potable gérés en toute<br>sécurité|Rural47|-|-|-|90,0|92,5|94,5|95,0|100| |6.2 D’ici à 2030, assurer l’accès de tous, dans<br>des conditions équitables, à des services<br>d’assainissement et d’hygiène adéquats et<br>mettre fin à la défécation en plein air, en<br>accordant une attention particulière aux<br>besoins des femmes et des filles et des<br>personnes en situation vulnérable|6.2.1|Proportion de la population utilisant<br>des services d’assainissement gérés en<br>toute sécurité notamment des<br>équipements pour se laver les mains<br>avec de l’eau et du savon : Taux de<br>raccordement au réseau publique<br>d’évacuation des eaux usées|Proportion de la population utilisant<br>des services d’assainissement gérés en<br>toute sécurité notamment des<br>équipements pour se laver les mains<br>avec de l’eau et du savon : Taux de<br>raccordement au réseau publique<br>d’évacuation des eaux usées|62,5|-|64,8|-|68,3|-|70,8|100| |6.3 D’ici à 2030, améliorer la qualité de l’eau<br>en réduisant la pollution, en éliminant<br>l’immersion de déchets et en réduisant au<br>minimum les émissions de produits chimiques<br>et de matières dangereuses, en diminuant de<br>moitié la proportion d’eaux usées non traitées<br>et en augmentant nettement à l’échelle<br>mondiale le recyclage et la réutilisation sans<br>danger de l’eau|6.3.2|Proportion des plans d’eau dont la<br>qualité de l’eau ambiante est bonne|Proportion des plans d’eau dont la<br>qualité de l’eau ambiante est bonne|-|-|57|39|65|-|82|-| |6.4 D’ici à 2030, faire en sorte que les<br>ressources en eau soient utilisées beaucoup<br>plus efficacement dans tous les secteurs et<br>garantir la viabilité des prélèvements et de<br>l’approvisionnement en eau douce afin de<br>remédier à la pénurie d’eau et de réduire<br>nettement le nombre de personnes qui<br>manquent d’eau|6.4.2|Niveau de stress hydrique :<br>prélèvements d’eau douce en<br>proportion des ressources en eau<br>douce disponibles<br>Apport moyen d’eau par habitant et<br>par an (en m3/hab/an)|Niveau de stress hydrique :<br>prélèvements d’eau douce en<br>proportion des ressources en eau<br>douce disponibles<br>Apport moyen d’eau par habitant et<br>par an (en m3/hab/an)|1080|-|-|-|-|-|1026|-|
+ Source : ONEE (Branche Eau), Agence du Bassin Hydraulique du Loukoss, HCP-Enquête Nationale sur l'Emploi-HCP- RGPH 2014", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EA\\output_EA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"ODD 7 : Energie propre et d’un coût abordable",
+"content": "L’énergie est le vecteur principal du développement, sa disponibilité et son accessibilité conditionnent l’avancée économique et sociale de tout pays. La région de Tanger-Tétouan-Al Hoceima est en plein essor démographique et économique, suscitant une demande énergétique de plus en plus croissante. Ainsi, nombreux sont les efforts consentis pour garantir l’accès de la population à l’énergie, accompagner l’accroissement des besoins énergétiques et contribuer au développement durable. Dans ce sens, la région a connu d’importants investissements dans les énergies renouvelables, particulièrement éoliennes dont elle dispose d’un potentiel important.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Etat de mise en œuvre",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Généralisation de l’accès à l’électricité",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Graphique12 : Taux d’électrification, RTTA",
+"content": "99,6% 99,8% 99,8% 95,6% 48,4% 2004 2014 2017 2019 2021
+ La généralisation de l’accès à l’électricité est désormais presque acquise à la région de TangerTétouan-Al Hoceima : le taux d’électrification y a atteint 99,4% en 2021 [48] contre 93,5% en 2014. En  effet, l’électrification est généralisée en milieu urbain avec un taux de 99,8% en 2021 et a connu des avancées majeures en milieu rural pour atteindre un taux de 98,6% contre 89,5% en 2014  et 48,4% en 2004, et ce, fruit des programmes et  initiatives d’électrification rurale lancés sur le  territoire régional.
+En effet, des solutions adaptées aux spécificités locales ont été proposées dans le cadre du programme d’électrification rurale globale (PERG) mis en œuvre depuis 1996 qui a permis la mise sous tension de 3513 villages à fin 2021 au niveau de la région, permettant l’accès à l’électricité à 231640 foyers. Durant la période 2015-2021, le nombre des villages électrifiés a été de 272 villages, profitant à 6548 foyers soit presque 34000 habitants. De même, 55 projets  d’électrification ont été réalisés dans le cadre du  Programme de Réduction des Disparités Territoriales et Sociales (PRDTS) entre 2018 et 2021 pour un montant d’investissement de 68,8 MDH et 10 projets ont été mis en œuvre dans le cadre de l’Initiative Nationale de Développement Humain (INDH), entre 2019-2022, pour un investissement de 13,72 MDH.
+Ces initiatives ont eu des impacts positifs sur  l’amélioration des conditions de vie des  populations rurales ainsi que sur le développement d’activités génératrices de revenus.
+Source : HCP- Enquête National sur l’Emploi",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Progrès notables dans la production des énergies renouvelables",
+"content": "En matière d’énergie renouvelable, la RTTA abrite 3 microcentrales hydroélectriques et 5 parcs éoliens. En effet, la région dispose d’un potentiel éolien important avec une vitesse moyenne du vent de 9m/s et un facteur de charge qui dépasse 50%, le premier parc éolien à l’échelle nationale y  a été mis en service en 2000.
+Ainsi, la puissance électrique installée à partir de sources renouvelables dans la région s’est  nettement améliorée au cours des dernières années  en s’élevant de 94,4 Mw en 2008 à 437,5 Mw en 2021, répartie en 41 Mw d’énergie hydroélectrique et 396,5 Mw d’énergie éolienne. Ainsi, la part des énergies renouvelables dans la capacité électrique régionale a augmenté de 14% à 44% entre 2008 et 2021. La capacité renouvelable est appelée à augmenter de 350 Mw en 2024 après la mise en place d’un 6 [ème] parc éolien et l’extension d’un parc existant à la région, ainsi que la création d’une centrale solaire photovoltaïque d’une puissance de  30Mw.  La production électrique renouvelable représente 43% de la production électrique régionale en 2020  au lieu de 37% en 2019 et 26% en 2016.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Graphique13 : Puissance électrique renouvelable installée par habitant (Watt/hab), RTTA",
+"content": "116,1 114,7 113,4
+  2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Source : Direction Régionale de la Transition Energétique et du Développement Durable",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Vers une efficacité énergétique",
+"content": "En matière d’efficacité énergétique, la province de Chefchaouen a intégré, depuis 2012, la phase pilote de la stratégie JihaTinou, qui consiste à développer une gestion territoriale en matière d’énergies renouvelables et d’efficacité énergétique. Ce programme vise à optimiser la capacité des acteurs locaux à contribuer, à leurs niveaux, aux objectifs énergétiques du pays.
+Une convention de partenariat a été signée en 2020, entre le Conseil Régional, le Ministère de l’Energie, des Mines et de l’Environnement, l’Institut de Recherche en Energie Solaire et Energies Nouvelles et le secteur privé, pour améliorer l’efficacité énergétique dans les secteurs les plus consommateurs d’énergie, notamment le transport, l’urbanisme, l’agriculture, l’industrie et l’éclairage public.
+De même, plusieurs actions ont été déployées au sein de la région pour renforcer l’efficacité énergétique. Ainsi, trois sessions de formation sur l’intégration des normes et des critères de l’efficacité énergétique dans le bâtiment ont profité à environ 100 architectes en 2018 et 2019.
+Décret n°2-10-578(11 avril 2011), en notant qu’un projet de loi modifiant et complétant cette loi et en cours d’élaboration Promulguée par Dahir n° 1-11-161 (29 septembre 2011) ainsi que la
+ Dans le même cadre, plusieurs entreprises et auto entrepreneurs ont été formés en matière d’installation des systèmes d’énergie solaire, notamment dans le secteur agricole. Des programmes typiques ont été aussi réalisés, notamment la réhabilitation de 350 mosquées, l’accompagnement d’entreprises industrielles pour intégrer les mesures d’efficacité énergétique afin  d’atteindre une économie de 10% en  consommation d’énergie, ou par la mise en place d’un système de gestion de l’énergie au niveau des lignes de production.
+Aussi, plusieurs établissements au niveau régional ont souscrit à l’efficacité énergétique, à l’instar de l’UAE ou du port Tanger Med en recourant à l’équipement de leurs installations en panneaux photovoltaïques pour produire leur propre énergie électrique. De même, le port Tanger Med a développé un projet de gestion intelligente d’éclairage public au niveau de certaines zones d’activité et a procédé au remplacement de toutes les lampes par des luminaires à basse consommation énergétique.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Un cadre juridique et institutionnel soutenu",
+"content": "Un cadre juridique et institutionnel a été mis en place depuis 2009 pour soutenir la stratégie énergétique nationale et promouvoir les énergies renouvelables et l’efficacité énergétique.
+Ainsi, la loi n°13-09 [49] relative aux énergies renouvelables permet la promotion de la production de l’énergie à partir de sources renouvelables, sa commercialisation et son exportation par des entités publiques ou privées, puis la loi n°58.15 qui modifie et complète la loi n°13-09 permettant l'ouverture au secteur privé du marché de la production et de la commercialisation de l’électricité produite à partir de sources renouvelables. De même, la loi 47-09 [50]  relative à l’efficacité énergétique a pour objet
+publication du décret n° 2-17-746 relatif à l’audit énergétique obligatoire et à la création des organismes d’audit et le décret n° 2-18-165 fixant le cahier des charges des Entreprises de Services (21 novembre 2019).  d’augmenter l’efficacité énergétique dans l’utilisation des sources d’énergie, d’éviter le gaspillage et de contribuer au développement durable, et la loi n°82-21 relative à l’autoproduction de l’énergie électrique. On cite  aussi le décret n°2-17-746 relatif à l’audit énergétique, puis la mise en place de la réglementation thermique de construction du bâtiment (RTCB) qui devient obligatoire dans tous les cahiers de charge de construction de bâtiments. Aussi, deux ambitieux programmes de production d’énergie renouvelables intégrés sont mis en place à savoir le Plan Solaire Marocain (PSM) et le Programme Eolien dont l’objectif est d’atteindre une part en énergies renouvelables de 52% de la puissance électrique installée à l'horizon 2030.
+Au niveau de la RTTA, de nouvelles structures de  mise en œuvre ont été mises en place, notamment par la création de l’Institut de formation aux métiers des énergies renouvelables et de l’efficacité énergétique (IFMEREE) à Tanger, dont l’objectif est de contribuer à la réussite de la stratégie énergétique nationale en mettant à la disposition du secteur des énergies renouvelables les compétences nécessaires pour son développement.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Renforcement de la recherche-développement dans les domaines des énergies renouvelables et de l’efficacité énergétique",
+"content": "De nombreux travaux de recherche et développement sont lancés dans la région, notamment par la mise en place de cursus de  formation dans le domaine de l’efficacité  énergétique dans les établissements universitaires de la région. Aussi et particulièrement dans le transport industriel, un projet collaboratif de recherche appliquée intitulé « Conception et implémentation d'une approche pour un transport de flotte industrielle durable et énergétiquement efficace » a été développé à l’UAE, dans le cadre d’un partenariat avec le Ministère de la Transition Energétique et du Développement Durable. De
+ même, le projet \"CITEE\" : Conception et Implémentation d’un Transport Efficace Energétiquement » a été développé au sein des établissements universitaires de la région. Il consiste à concevoir, développer et mettre en œuvre des solutions innovantes pour une meilleure performance énergétique dans le transport industriel et plus précisément dans le  secteur de l’industrie laitière.
+Dans le domaine des énergies renouvelables, l’UAE a proposé, dans le cadre du projet « Climat et Energie », l’utilisation des données satellitaires pour le développement d’une cartographie en temps réel, prédictive de l’énergie solaire dans la région de Tanger-Tétouan-Al Hoceima, et ce, en vue de mieux gérer les installations des systèmes  solaires.
+Ainsi, l'équipe de recherche & développement et  de l’innovation verte de l’Université Abdelmalek  Essaâdi « T’DART » a décroché la première place dans le cadre de la compétition internationale SolarDecathlonAfrica 2019 pour construire des maisonnettes intelligentes fonctionnant uniquement à l’énergie solaire.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Principaux défis :",
+"content": "Malgré l’importance des mesures mises en place, certains défis restent à relever, notamment ceux  portant sur :
+Le développement de la part des énergies renouvelables dans le bouquet énergétique régional ;  La réponse à la demande énergétique accrue particulièrement des secteurs du transport et de l’industrie ;  La lutte contre les retombées des sécheresses  affectant la disponibilité des ressources hydriques en tant que sources de production d’énergie hydroélectrique ;  L’encouragement de l’investissement en recherche et développement afin d’accompagner le développement accéléré en matière d’énergie  notamment renouvelable.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Stratégies et programmes",
+"content": "Plusieurs programmes et initiatives sont mis en œuvre à l’échelle régionale pour améliorer l’accès à l’électricité notamment en milieu rural, l’approvisionnement en énergies renouvelables et le renforcement de l’efficacité énergétique, dont :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme d’Electrification RuraleGlobal (PERG) :",
+"content": "Lancé en 1996, ce programme a pour objectif l’alimentation des populations rurales en énergie électrique que ce soit par raccordement au réseau ou par équipement en kits photovoltaïques, permettant la mise sous tension de 3513 villages à fin 2021 au niveau de la région de Tanger-Tétouan-Al Hoceima.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"L’Initiative Nationale pour le Développement Humain (INDH)",
+"content": "dans sa 3 [ème] phase, à travers son programme « Rattrapage des déficits en infrastructures et services sociaux de base », particulièrement la réalisation de projets d’électrification. L’INDH a initié des projets d’électrification décentralisée des villages éloignés, à travers, entre autres, des plaques solaires (kits photovoltaïques). Ces actions s’inscrivent dans le cadre du Programme de Réduction des Disparités Territoriales et Sociales (PRDTS) et du dispositif institutionnel de gouvernance de la Stratégie Nationale de Développement de L’Espace Rural et des Zones de Montagne au titre de la période  2020-2023.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional d’Aménagement du Territoire de la Région de Tanger-Tétouan-Al Hoceima SRAT-TTA",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme d’Actions du SRAT-TTA (2021-2046) :",
+"content": "Qui constitue un cadre régional de développement durable et cohérent entre les différents espaces de la région.  Les actions du PA 2021- 2046 sont  intersectorielles, transversales et susceptibles de concerner plus d’un secteur à la fois (Consulter Encadré 18).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Programme de Réduction des Disparités Sociales et Territoriales en Milieu Rural PRDTS (2017-2023) :",
+"content": "(Consulter Encadré 19).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"La stratégie JIHATINOU (2012-2020)",
+"content": ": Est la stratégie territoriale de l’Agence Marocaine pour l’Efficacité Energétique, en matière d’énergies renouvelables et d’efficacité énergétique. Elle vise à encourager les initiatives locales, tout en favorisant la déclinaison de la stratégie énergétique  nationale au niveau des territoires et collectivités  du Royaume. Au niveau de la RTTA, la province de Chefchaouen a intégré la phase pilote depuis 2012. La stratégie JihaTinou cherche à optimiser la capacité des acteurs locaux à contribuer, à leurs niveaux, aux objectifs énergétiques du Maroc à l’horizon 2020, en encourageant la maîtrise de l’énergie à l’échelle locale et en renforçant la capacité communale et régionale à valoriser les ressources locales en énergies renouvelables.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Convention cadre relative au renforcement de l’efficacité énergétique et des énergies renouvelables dans les régions :",
+"content": "Dans le cadre de l’approche régionale et locale de la promotion et du développement de l’efficacité énergétique, le Ministère de la Transition Energétique et du Développement durable a élaboré et conclu des conventions cadre de partenariats, selon la charte communale, avec les Conseils Régionaux, l’Agence Marocaine pour l’Efficacité Energétique, la Société d’Ingénierie Energétiques et l’Institut de Recherche en Energie Solaire et Energies Nouvelles, visant le renforcement de l’efficacité  énergétique et des énergies renouvelables dans les régions.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Des programmes d’efficacité énergétique",
+"content": "dans les principaux secteurs consommateurs d’énergie, notamment l’industrie, le transport et le bâtiment  lancés dans le cadre de la mise en œuvre de la  Stratégie Nationale de l’Efficacité Energétique dont l’objectif consiste à réaliser une économie d’énergie d’environ 20 % à fin 2030 : 24% dans le transport, 22% dans l’industrie, 14% dans le bâtiment et 13% dans l’éclairage public.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le plan d’équipement vert 2019-2023",
+"content": ": C’est un programme d’investissement qui vise à réaliser à l’horizon 2023 une capacité globale supplémentaire de 3743 Mw à l’échelle Nationale, dont 99,4% sont de sources renouvelables.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le programme de développement d’un réseau de plateformes",
+"content": "dédiées à la recherchedéveloppement et à l’innovation dans les domaines des énergies renouvelables et de l’efficacité énergétique.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme de l’efficacité énergétique dans les mosquées",
+"content": ": comprend l’éclairage économique à base de lampes faible consommation, les chauffe-eaux solaires, et le recours aux solutions  photovoltaïques pour la production d’électricité. Il répond à un double objectif, réduire la
+ consommation énergétique des mosquées et sensibiliser aux techniques d’efficacité énergétique des citoyens.", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme national de la promotion du pompage solaire dans l’irrigation :",
+"content": "Consiste à encourager l’utilisation des systèmes d’énergie solaire pour le pompage de l’eau dans ce secteur, qui sont devenus compétitifs avec les systèmes de pompage traditionnels. Elles sont caractérisées par de faibles coûts d’entretien et d’exploitation, fournissant ainsi une solution alternative pour l’utilisation du gaz butane dans l’agriculture.
+#",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Evolution des indicateurs de l'ODD7",
+"content": "| Cibles | Code indicateur | Indicateurs | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | Valeur cible 2030 | |--------|----------------|------------|------|------|------|------|------|------|------|------|-----------------| | 7.1 D’ici à 2030, garantir l’accès de tous à des services énergétiques fiables et modernes, à un coût abordable | 7.1.1 | Proportion de la population ayant accès à l’électricité | 93,5 | - | - | 98,6 | - | 99,4 | - | 99,4 | 100 | | 7.b D’ici à 2030, développer l’infrastructure et améliorer la technologie afin de fournir des services énergétiques modernes et durables à tous les habitants des pays en développement, en particulier des pays les moins avancés, des petits États insulaires en développement et des pays en développement sans littoral, dans le respect des programmes d’aide qui les concernent | 7.b.1 | Puissance installée du parc d’énergie renouvelable (en watts par habitant) | 89,5 | 88,4 | 87,3 | 86,3 | 85,2 | 116,1 | 114,7 | 113,4 | - |",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\EP\\output_EP.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"ODD 14 : La vie aquatique",
+"content": "De par son emplacement géographique, la région de Tanger-Tétouan-Al Hoceima jouie d’une façade littorale de 447 km de longueur donnant sur la méditerranée et l’océan Atlantique, et a la particularité d’être entourée par trois écosystèmes différents l’un de l’autre : l’Atlantique Nord, le Détroit de Gibraltar et la Méditerranée occidentale. Ceci lui confère un atout exceptionnel pour le développement d'activités maritimes et particulièrement la pêche, suscitant l’engouement des investisseurs nationaux et étrangers. Mais la multiplication des activités de pêche pratiquées dans la région, la pollution générée par le trafic maritime intense au niveau du Détroit de Gibraltar, ainsi que certains facteurs naturels et la forte densité démographique dans les zones côtières, exercent des pressions sur les écosystèmes marins et les ressources halieutiques de la région, c’est pourquoi nombreux sont les enjeux à défier malgré les efforts déployés.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Etat de mise en œuvre",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Vers une gestion durable du potentiel maritime",
+"content": "Face aux risques qui menacent le potentiel maritime de la région, plusieurs actions et programmes sont menées pour en garantir une gestion durable. Parmi les mesures entamées, l’intégration de l’aspect durabilité dans la gestion portuaire conformément aux dispositions de la  convention internationale MARPOL. Comme  exemple de cette gestion au niveau du port Tanger Med, l’organisation régulière d’analyses de la qualité des eaux des bassins et des  sédiments du fond marin et des zones de  mouillage du complexe portuaire et la mise en place d’actions pour limiter certaines des principales sources de pollution marine.
+On cite aussi, la préservation et la protection contre l’acidification de la Zone Economique Exclusive (ZEE) maritime et la réalisation d’études de diagnostic de l’état des zones  littorales et maritimes. Par ailleurs la RTTA est  en cours de l’élaboration de son Schéma régional de gestion du littoral qui s’inscrit dans la loi 8212 promulguée en vue de mettre en valeur l’écosystème littoral.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Exploitation rationnelle des ressources halieutiques et Renforcement du cadre juridique",
+"content": "Dans l’objectif d’assurer une gestion durable, compétitive et performante des ressources halieutiques et leur préservation, et relancer ainsi l’économie du secteur de la pêche dans la RTTA, plusieurs actions y ont été mises en place, dont l’adoption des Plans d’aménagement des Pêcheries, particulièrement pour le poulpe, les grands et petits pélagiques, les crevettes et le corail rouge d’Assilah, ainsi que la mise en mer des Récifs artificiels « type industriel » au niveau de Martil sur une superficie de 52 ha et la création des Aires Marines Protégées.
+Le cadre juridique a également été renforcé, notamment par l’adoption de lois et décrets visant la lutte contre la surpêche, la pêche illicite, non déclarée et non réglementée (INN),  l’interdiction de l’utilisation du filet maillant  dérivant en vue de préserver les espèces vulnérables, puis la fixation des zones de chalutage.
+En effet, l’ensemble des navires de pêche côtière et hauturière ont été équipés d’un système de géo-localisation par satellite et une procédure de certification électronique des captures a été élaborée dans le cadre de la lutte contre la pêche INN. Un plan national de contrôle des activités de pêche décliné en plan régional de contrôle a également été mis en œuvre, définissant les méthodologies et procédures opérationnelles en vue d’harmoniser, planifier, exécuter le contrôle et permettre le suivi efficace des résultats et l’évaluation régulière du système. Par ailleurs et dans le but de lutter contre l’activité des barques informelles, un projet d’équipement des barques artisanales en dispositif d’identification RFID (Radio fréquence Identification) a été initié et réalisé à 100% au niveau de la région.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Préservation des zones marines",
+"content": "Le Maroc a adhéré aux conventions  internationales fixant comme objectif la création d’un réseau d’espaces protégées couvrant au moins 10% des océans. Dans ce cadre, le  Royaume s’est doté d’une stratégie de développement d’un réseau d’aires marines protégées (AMP). Ce réseau d’AMP-Pêche contribuera à la préservation des ressources halieutiques, à la réhabilitation des écosystèmes marins et à la durabilité de la pêche artisanale.  Dans ce cadre la zone maritime de la RTTA  s’étend sur deux aires marines protégées : l’AMP Alboran qui couvre 250 km [2] et l’AMP Parc National d’Al Hoceima sur une superficie de 190 km [2] .",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Préservation du patrimoine culturel du littoral",
+"content": "Afin de mettre en exergue le patrimoine culturel et naturel du littoral régional, des actions sont déployées pour l’inventaire et le classement des monuments historiques et sites archéologiques. Ainsi, 6 sites archéologiques sont classés sur le littoral à la région (BorjMartil, la Necropole de Marshan, le site de Ksar Sghir, les grottes d’Hercule, les remparts de la Médina d’Assilah et le site Lixus), 1 site inscrit (le site archéologique Al Mazamma) et plusieurs autres sites et  monuments inventoriés.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Faible participation de la pêche à la production de la richesse",
+"content": "La pêche représente une activité d’appoint non négligeable à la RTTA notamment grâce à sa  contribution dans la mobilisation d’une  importante main d’œuvre principalement au  niveau des communes rurales côtières où  l’agriculture n’est pas un secteur florissant. Mais avec ses trois composantes, côtière, artisanale et hauturière, la participation de la région dans l’exploitation des ressources halieutiques nationales reste faible : Elle n’a pas dépassé 1,9% et 6,4% respectivement du poids et de la valeur des débarquements en 2020.
+En effet, si les captures de la pêche hauturière  fluctuaient entre 2015 et 2020 entre 1274 et 1131  tonnes (30 unités opérationnelles de pêche hauturière), celles côtières et artisanales ont baissé graduellement passant de 43802 à 24002 tonnes durant cette période. En termes de valeurs, la production halieutique régionale a diminué de 885 à 831 MDH entre 2015 et 2019,  puis à 691 MDH en 2020.
+Par ailleurs, l’aquaculture est une activité prometteuse dans la côte méditerranéenne de la région, avec une production qui a augmenté de 181 à 204 tonnes entre 2015 et 2020. De même,  les eaux riches en coraux de la région croisent la trajectoire de migration de poissons à très haute valeur commerciale tels que le Thon rouge et l’Espadon faisant de la région la plus grande productrice à l’échelle du Royaume en ces deux espèces.
+Mais en général, les activités de pêche participent faiblement à la production de la richesse dans la RTTA, avec une part dans le PIB régional qui a diminué de 0,47% à 0,31% entre 2015 et 2020.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Graphique 21 : Part du PIB correspondante aux activités de la pêche, RTTA",
+"content": "0,47% 0,47% [0,49% 0,49% ] 0,46%
+2014 2015 2016 2017 2018 2019 2020
+Source : HCP",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Promotion de la pêche artisanale et côtière",
+"content": "Pour promouvoir la pêche artisanale et côtière, la RTTA abrite 7 points de débarquement aménagés (PDA) et 5 Villages de pêcheurs (VDP). La flotte de pêche côtière et  artisanale immatriculée est constituée en 2020  respectivement de 753 et 2733 unités, dont 44% et 95% respectivement opérationnelles.
+En vue de moderniser, mettre à niveau la flotte  artisanale, et améliorer ainsi les conditions de  sécurité, d’habitabilité et de travail des marins pêcheurs à bords, cette flotte a connu la  modernisation de 20 navires dont la moitié en  polyester alors que 42 navires ont bénéficié des différents packs de mise à niveau (Pack TAJHIZ-BAHARA-ANBAR). De même, le programme d’équipement des barques en caissons isothermes permet la valorisation des apports et évite les pratiques pouvant porter  atteinte à l’environnement marin et terrestre. Au  niveau régional, 2094 barques ont bénéficié de ce programme jusqu’à fin 2020 parmi les 2480 ciblées. D’autre part, dans le cadre du Programme national d’élimination du filet maillant dérivant (FMD), 170 armateurs ont été indemnisés dans l’option retrait des FMD pour un montant de 58,5 MDH, et 75 armateurs  indemnisés dans l’option sortie pour un montant de 150 MDH. De même, un appui financier est alloué aux navires senneurs de la pêche côtière victimes des attaques du dauphin noir, alors qu’une convention est en phase de préparation pour le financement de l’achat de filet prototype  renforcé en faveur des navires sardiniers  victimes de ces attaques.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Renforcement de la recherche",
+"content": "Sur le plan scientifique, la recherche dans le domaine halieutique a été renforcée au niveau de la RTTA qui abrite un centre régional de la recherche halieutique qui s’occupe, entre autres, de l’évaluation de l’état des principaux stocks peuplant l’Atlantique nord et la Méditerranée, de l’évaluation des rejets en mer et de la conduite de thèmes de recherche au niveau régional en rapport avec l’environnement marin et l’impact anthropique des activités humaines. La région abrite aussi deux centres spécialisés : Le centre spécialisé en pathologie des animaux aquatiques de Tanger et le centre spécialisée en zootechnie et ingénierie aquacoles de M’diq, destiné à entreprendre des travaux de recherches sur les nouvelles technologies aquacoles et l’adaptation des techniques existantes aux conditions géographiques et sociales de la région.
+De son côté, en plus de l’intégration de l’aquaculture et de la biodiversité marine dans les  offres de formation universitaires au niveau de la  région, divers projets de recherche universitaires portant sur la protection des écosystèmes aquatiques sont menés. On cite dans ce sens un projet relatif au rôle que pourraient jouer les  Foraminifères et les Ostracodes comme bio  indicateurs des caractéristiques environnementales actuelles et passées du littoral de la RTTA. On cite aussi un projet portant sur le processus de gestion de l’AMP d’Alboran, en proposant des bonnes pratiques en termes de gouvernance, de financement durable et de bio surveillance de l’état de salubrité de l’écosystème en question et en prédisant les impacts des changements globaux (effets anthropiques, eutrophisation, changement climatique, ...) sur les écosystèmes marins, ainsi que des recherches menées sur la prolifération des blooms de méduses au niveau des côtes et les larges de la Méditerranée occidentale. D’autre part, l’UAE a signé une convention de partenariat avec le Centre d'Activités Régionales du Programme d'Action Prioritaires (CAR/PAP) agissant dans le cadre du Plan d’action pour la protection et le développement du bassin de la Méditerranée (PAM), celui-ci englobe des aspects tels que la gestion des zones côtières, la prévention et le contrôle de la pollution, la protection des écosystèmes et la préservation de la biodiversité.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Principaux défis",
+"content": "Afin de promouvoir une croissance durable du secteur de la pêche et de faire converger les aspects environnementaux, sociaux et économiques des ressources aquatiques permettant aux communautés d'en retirer des avantages équitables, d’importants défis devront être levés par le secteur de la pêche au niveau de la région. Il s’agit en particulier de :
+La planification de l’espace maritime ;  La lutte contre la surexploitation des ressources  halieutiques ;  La lutte contre l’envahissement des espèces  exotiques (cas des méduses et des crabes bleus) et la proposition de solutions aux problématiques de la pêche soulevées par le dauphin noir dans la côte méditerranéenne de la région ;  La lutte contre la pêche illicite, non déclarée et  non réglementée, avec la nécessité du renforcement des ressources humaines pour un contrôle efficient ;  La lutte contre la pollution marine, surtout  chimique engendrée par le trafic maritime de plus en plus intense à travers le Détroit de Gibraltar, surtout celui assurant le transport de produits d’hydrocarbures ;  Le développement de la contribution de  l’aquaculture régionale à l’offre nationale de poissons ;  Le renforcement de la gouvernance du littoral  vue la multiplicité des intervenants chargés de sa gestion, ce qui complique davantage la  coordination de leurs actions.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Stratégies et programmes",
+"content": "Face aux risques qui menacent le capital maritime et la durabilité des zones littorales, et pour remédier aux problèmes économiques, sociaux et environnementaux qui en découlent, des stratégies nationales, plans et programmes sont déclinés à l’échelle de la région, dont principalement :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"La Stratégie Portuaire Nationale à l’horizon 2030 :",
+"content": "Parmi ses objectifs, le renforcement de la capacité d’adaptation du système portuaire en vue de saisir les opportunités géo stratégiques que la stratégie Halieutis propose, en l'occurrence les aménagements des sites dédiés à l'aquaculture. (Consulter Encadré 12).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan National de Gestion Intégrée du Littoral (PNL) :",
+"content": "Parmi ses objectifs : 1: Déterminer les orientations et les objectifs généraux à atteindre en matière de protection, de mise en valeur et de conservation du littoral, en  tenant compte de la politique nationale d'aménagement du territoire et des objectifs de développement économique et social; 2: Prévoir les mesures à prendre pour prévenir, lutter et réduire la pollution du littoral ; 3: Assurer la cohérence et la complémentarité entre les schémas régionaux du littoral prévus.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme National de surveillance de la qualité des eaux de baignade et du sable des plages du Royaume",
+"content": ":  Dont les Objectifs permettent de surveiller et évaluer la qualité des eaux de baignade et du sable des plages ; suivre l’évolution, la nature et les éventuelles sources  des déchets des plages ; contribuer à  l’élaboration de l’état de l’environnement du  Littoral ; et honorer les engagements du Maroc au niveau régional et international en la matière. Les réalisations au niveau de la région de Tanger Tétouan-Al Hoceima au titre de l’année 2020 :  65 plages, 168 stations de surveillance, 1671 prélèvements avec un taux de stations non conformes aux normes de baignade de 15,54%.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional d’Aménagement du Territoire de la Région de Tanger-Tétouan-Al Hoceima",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"SRAT-TTA/Programme d’Actions du SRAT-TTA (2021-2046) :",
+"content": "Qui constitue un cadre régional de développement durable et cohérent entre les différents espaces de la région. Les actions du PA 2021- 2046 sont intersectorielles, transversales et susceptibles de concerner plus d’un secteur à la fois (Consulter Encadré 18).
+#",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Evolution des indicateurs de l'ODD14",
+"content": "| Cibles | Code indicateur | Indicateurs | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | Valeur cible 2030 | |--------|----------------|------------|------|------|------|------|------|------|-----------------| | 14.5 D’ici à 2020, préserver au moins 10% des zones marines et côtières, conformément au droit national et international et compte tenu des meilleures informations scientifiques disponibles | 14.5.1 | Surface des aires marines protégées (en km²) | - | - | - | - | 440 | 440 | - | | 14.7 D’ici à 2030, faire bénéficier plus largement les petits États insulaires en développement et les pays les moins avancés des retombées économiques de l’exploitation durable des ressources marines, notamment grâce à une gestion durable des pêches, de l’aquaculture et du tourisme | 14.7.1 | Proportion du PIB correspondant aux activités de pêche viables dans les petits États insulaires en développement, les pays les moins avancés et tous les pays (en %) | 0,47 | 0,49 | 0,49 | 0,46 | 0,36 | 0,31 | - |",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VA\\output_VA.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"ODD 15 : Vie terrestre",
+"content": "La forêt est une composante essentielle de l’écosystème de la région de Tanger-Tétouan-Al Hoceima qui s’étend en partie sur les chaines rifaines. Elle joue un rôle économique et social important puisqu’elle offre des zones de parcours pour le cheptel et des paysages naturels somptueux pour le développement d’activités touristiques et permet la production et l’exploitation du bois ainsi que le développement de certaines activités artisanales, ce qui génère des ressources financières considérables. Mais la dimension environnementale demeure aussi importante de par le rôle de la forêt dans la protection du sol contre l’érosion, la préservation de la biodiversité et la régulation du cycle de l’eau. Sur cet aspect, la forêt de la région subit des pressions importantes tant naturelles qu’anthropiques ainsi que des menaces continues de dégradation qui engendrent des déséquilibres dans les écosystèmes forestiers et une perte de leur richesse naturelle. C’est pourquoi sa gestion durable et son exploitation rationnelle constituent un enjeu à surmonter.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Etat de mise en œuvre",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Vers une préservation et une exploitation durable des écosystèmes terrestres et d’eau douce",
+"content": "En plus de l’adoption des mesures législatives de politique générale qui touchent aux écosystèmes naturels, en l’occurrence les forêts, les montagnes, les sols, les aires protégées, la biodiversité et les espèces menacées, les pouvoirs publics au niveau régional mettent en avant un ensemble de leviers d’action pour accélérer les transformations requises pour la mise en œuvre des engagements relatifs à l’agenda 2030 en matière de préservation, restauration et exploitation durable des écosystèmes terrestres et des écosystèmes d’eau douce.
+La surface des espaces forestiers atteint 510817 ha dans la RTTA, soit un taux de couverture régionale de 32%. Pour assurer la sécurisation foncière du domaine forestier, les principales réalisations ont concerné, jusqu’à l’année 2021, la délimitation de 129136 ha de forêts, l’homologation de 195056 ha et l’immatriculation de 83652 ha du domaine forestier, soient respectivement 25%, 38% et 16% de la superficie forestière de la région.
+Concernant la protection des écosystèmes forestiers, les actions ont visé notamment le renforcement du dispositif de gardiennage et de surveillance des forêts contre toute agression externe, la mise en œuvre du système cartographique de prédiction des risques d’éclosion et de propagation du feu dans les zones à risques majeurs, la mise en œuvre du protocole de veille sur l’état sanitaire des forêts et l’élaboration et mise en œuvre des  programmes annuels de prévention et de lutte contre les incendies de forêts.
+Dans ce cadre, le nombre d’incendies a diminué entre 2015 et 2021 passant de 169 à 138, alors que la superficie moyenne par incendie a triplé durant la même période augmentant de 3,18 ha/incendie à 10,75 ha/incendie. En effet, les incendies constituent une menace sérieuse qui pèse sur la forêt de la région entrainant une dégradation du couvert végétal par incendie de l’ordre de 1300 ha/an (moyenne 2005-2021). Ceci fait de la région la première à l’échelle nationale en matière de dégâts causés par les feux de forêts.
+Quant à la gestion des zones humides, elle a connu une nette évolution puisque le nombre de zones humides inscrites dans la liste de Ramsar  est passé de 3 à 5 entre 2015 et 2021, ce qui a élevé la superficie totale des sites Ramsar de la région de 18900 ha à 20237 ha durant cette période.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Renforcement de la gestion durable des forêts",
+"content": "Pour la restauration et la gestion durable des forêts, plusieurs efforts ont été mis en œuvre au niveau régional, notamment en matière d’études d’aménagement des forêts qui ont connu une cadence croissante durant la période 2015-2021, menant la surface forestière totale aménagée durant cette période de 113850 ha à 152175 ha. Aussi, un programme de coopération est mené avec le conseil de la région de Tanger-TétouanAl Hoceima pour l’étude et l’élaboration de projets d’aménagement et de gestion (PAG) pour certains Sites d’intérêt biologiques et écologiques (SIBE) de la région. De même, un grand effort est fourni en matière d’aménagement des forêts urbaines et périurbaines (FUP) dont le nombre de FUP aménagées est de 9 forêts dans la région.
+Le rythme des actions de reconstitution des écosystèmes forestiers par le reboisement, la régénération et l’amélioration sylvopastorale a également connu une tendance croissante durant la période 2015-2021, puisque ces actions ont porté sur une superficie de 3572 ha en 2015 pour passer à 3864 ha en 2021. De même, une importance particulière est accordée aux espèces autochtones plus adaptées aux changements climatiques qui ont fait objet de plantation d’une moyenne de 1500 ha/an à la province d’Al Hoceima, et de 750 ha/an dans le reste de la région.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Lutte contre la dégradation des terres",
+"content": "Dans le but d’inverser le processus de dégradation des terres et d’atténuer ses répercussions, les actions mises en œuvre au niveau de la région ont concerné la couverture des bassins versants par les travaux d’aménagement. Les superficies couvertes ont été multipliées par 17 durant la période 20152021, passant de 21400 ha à 364000 ha.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Richesse et diversité particulière de la faune et de la flore",
+"content": "Dans le domaine de la gestion de la biodiversité, la RTTA renferme actuellement 21 aires  protégées : 2 parcs nationaux et 19 SIBE, s’étendant sur une superficie terrestre totale de 153515 ha dont 23422 ha s’étendent sur le  domaine littoral et 130093 ha sur le domaine  continental. Parmi les aires protégées les plus remarquables, on cite le parc national de Talassemtane d’une superficie de 58950 ha, qui s’individualise par sa très grande diversité de flore et de faune illustrée par des espèces endémiques comme le sapin et d’autres espèces remarquables comme le pin noir, le singe magot et la loutre. Ainsi que le parc national d’Al Hoceima qui s’étend sur une superficie globale de 48460 ha dont 28860 ha terrestre et 19600 ha  marine, et qui se distingue par sa richesse animale et particulièrement l’existence d’une importante colonie de l’espèce d’oiseau Balbuzard Pêcheur, menacée d’extinction à l’échelle de la méditerranée, ainsi que 110 espèces végétales dont les plus importantes sont le Thuya et le Pin d’Alep. La région s’individualise aussi par l’existence de la Réserve de Biosphère Intercontinentale de la Méditerranée (RBIM), l’unique réserve de biosphère au monde reliant deux continents.
+Un autre volet de la gestion de la biodiversité concerne la réintroduction des espèces de faune menacées au sein de leur habitat naturel, pour laquelle le réseau actuel des aires protégées constitue le support adéquat. Les activités réalisées ont concerné les ongulés, pour lesquelles la région compte actuellement deux enclos pour l’acclimatation du cerf de Bérberie s’étendant sur 354 ha abritant 40 cerfs. De même  pour les oiseaux dont plusieurs espèces emblématiques ont fait l’objet de plans d’actions spécifiques pour leur protection et suivi systématique en particulier la grande outarde et le vautour fauve dont 5 vautours fauves _Gyps_ _fulvus_ ont été relâchés dans la nature en 2017 et 8 autres en 2021. Dans ce sens, la région abrite un centre de réhabilitation des vautours qui vise observer leur taux d’intégration dans la nature. Les actions concernent aussi le singe magot pour lequel des efforts considérables sont déployés par le personnel forestier en étroite collaboration avec les instances judiciaires et les autorités locales ainsi que les associations environnementales œuvrant dans la région.
+Aussi, des programmes de coopération sont menés avec de nombreuses ONG dans des  thèmes en relation avec la conservation de la  faune et la flore et la sensibilisation à  l’environnement.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Préservation des écosystèmes montagneux et de leur biodiversité",
+"content": "Les zones de montagne s’étendent sur une grande proportion du territoire régional et abritent des espaces forestiers et agricoles de grande importance. Un intérêt particulier leur est accordé en harmonie avec la Stratégie Nationale de développement de l’espace rural et des zones de montagne. Ainsi, les aires protégées s’étendant sur des zones montagneuses de moyennes à hautes altitudes consistent en 2 parcs nationaux et 8 SIBE continentaux, occupant une superficie d’environ 127460 ha, soit 83% de la superficie terrestre couverte par l’ensemble des aires protégées de la région.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Lutte contre le braconnage et le trafic d’espèces végétales et animales",
+"content": "De grands efforts sont aussi fournis pour lutter contre le braconnage et le trafic d’espèces végétales et animales protégées. Ainsi, et à partir de 2017, 3 Unités de Surveillance et de Contrôle de la Faune Sauvage (USCFS) sont opérationnelles dans la région. Ces unités contribuent aussi à la gestion et mise en valeur des territoires de chasse et suivent les  populations de gibier et d’autres espèces de faune sauvage. De même, une convention de partenariat relie la Direction Régionale des Eaux et Forêts et la lutte Contre la Désertification du  Rif avec la société civile pour mener des campagnes systématiques pour lutter contre les actions de détention et de braconnage des singes notamment au niveau du parc national de Talassemtane, du futur parc naturel de Bouhachem et du SIBE de Jbel Moussa.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Efforts financiers pour le développement du secteur forestier",
+"content": "Sur le plan financier, le budget alloué aux départements étatiques [84] du secteur forestier à la RTTA a atteint 67,5 MDH en 2020, alors que l’enveloppe budgétaire consacrée au programme du développement forestier qui vise la restauration des écosystèmes forestiers et la promotion de la gestion durable des ressources forestières a connu une augmentation de 14% entre 2015 et 2021.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Partenariat avec les acteurs",
+"content": "Dans le cadre de l’accord-cadre de coopération entre le Conseil Régional et la Région ProvenceAlpes-Côte d’Azur, le projet du parc Naturel de Bouhachem a été initié en vue d’adopter une démarche de développement local sur le territoire rural de Jbel Bouhachem. Par son caractère interprovincial et intercommunal, ce projet vise à renforcer les infrastructures de base et structurer les activités économiques à vocation touristique ainsi que la mise en place de projets visant l’amélioration des conditions de vie des  habitants locaux. Ainsi, une convention de partenariat a été signée entre le groupement des collectivités territoriales « Bouhachem » et le  Conseil Régional pour réaliser des projets d’aménagement du territoire du parc d’un montant de 4 MDH.
+Aussi, en vue d’améliorer de la contribution de la forêt et des produits forestiers à l’économie
+Non compris les établissements publics locale, une coopérative œuvrant dans le domaine de la valorisation rationnelle des plantes aromatiques et médicinales (PAM) a bénéficié du droit d’exploitation de cette ressource en mode contrat de partenariat la reliant avec la Direction Régionale des Eaux et Forêts et la lutte Contre la Désertification du Rif. La quantité des PAM exploitée entre 2017 et 2019 était de 300 tonnes répartis sur 9082 Ha, pour un équivalent de recettes générées de près de 200000 Dh. Cinq autres contrats de partenariat sont en cours de conclusion avec des coopératives visant la valorisation des champignons, des plantes aromatiques et l’utilisation du bois issu des  coupes.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Principaux défis",
+"content": "En plus des effets des aléas des changements climatiques (sécheresses, inondations, tempêtes, etc.) sur les forêts rifaines de la région, celles-ci sont assujetties à d’autres défis qu’il faudra  surmonter :
+La multiplication des actions de prévention et de  lutte contre les incendies de forêts ;  Le renforcement de l’établissement des aires protégées en vue de consolider la gestion de la biodiversité et la protection des espèces menacées ;  La lutte contre la dégradation des terres ;  La réduction de la pression humaine sur les espaces forestiers, reflétée par les défrichements intensifs des espaces boisés, la coupe du bois de chauffage et de feu, l’expansion démographique et urbaine, le surpâturage en forêts et l’empiétement sur l’assiette forestière ;  L’implication de la population locale en matière  de préservation de la forêt.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Stratégies et programmes",
+"content": "Pour faire face aux différents défis et tendances  de dégradation, les départements étatiques du secteur forestier dans la région déploient de nombreux efforts de conservation et  développement des ressources forestières, et ce, en harmonie avec les stratégies nationales,  notamment :",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Plan d’action régional de la stratégie « Forêts du Maroc 2020-2030 » :",
+"content": "Qui vise à répondre aux objectifs liés à l’arrêt de la déforestation et ambitionne de récupérer 30 années de dégradation des forêts au niveau de la région. Les axes prioritaires d’intervention fixés sont les suivants: 1- Conservation du patrimoine foncier du domaine forestier ; 2- Renforcement de la recherche scientifique dans le domaine de la gestion de la biodiversité et la protection de l’environnement ; 3- Multiplication des actions de prévention et lutte contre les incendies de forêts, 4- Appui aux coopératives forestières ; 5- Développement de l’écotourisme et l’éducation à l’environnement ; 6- Concrétisation du rôle récréatif des forêts urbaines et périurbaines.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan d’action de la Réserve de la Biosphère",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Intercontinentale de la Méditerranée RBIM",
+"content": ",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"(2016-2025)",
+"content": ":Est conçu de telle sorte à répondre aux objectifs des réserves de biosphères arrêtés par l’UNISCO, en s’articulant autour des quatre axes: le développement et fonctionnement des organes de gestion, de coordination et de participation, la conservation des ressources naturelles terrestres et aquatiques, le développement socio-territorial durable, et l’appui logistique, communication et participation.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"La stratégie « Forêts du Maroc » 2020-2030",
+"content": ": Basée sur un modèle de gestion inclusif, durable et créateur de richesse, qui place les populations usagères des zones forestières au cœur de la gestion des forêts. Elle s’appuie sur cinq orientations : 1- Un territoire de développement : changer le regard sur la forêt habitée par les usagers pour intégrer la problématique sociale dans le modèle ; 2- Durable : Faire respecter la ligne rouge des capacités forestières pour ne plus détruire le capital, préserver et développer toutes les ressources naturelles ; 3- Participatif : Engager les usagers dans une gestion partagée pour atteindre les objectifs ; 4- Productif : Mobiliser le potentiel productif grâce au partenariat privé pour soulager la pression informelle sur les forêts naturelles ; 5- Biodiversité : Sauvegarder le patrimoine naturel à travers un réseau d’espaces emblématiques.",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Le Schéma Régional d’Aménagement du Territoire de la Région de Tanger-Tétouan-Al Hoceima SRAT TTA",
+"content": "-",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Programme d’Actions du SRAT TTA (2021-2046) :",
+"content": "Qui constitue un cadre régional de développement durable et cohérent entre les différents espaces de la région. Les actions du PA 2021-2046 sont intersectorielles, transversales et susceptibles de concerner plus d’un secteur à la fois (Consulter Encadré 18).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan Régional d’Atténuation des émissions de GES (2021-2030) :",
+"content": "Qui propose 2 actions d’atténuation pour le secteur de la forêt. (Consulter Encadré 24).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Plan d’Adaptation Prioritaire (PAP) de la RTTA :",
+"content": "Qui propose 5 objectifs opérationnels pour le secteur de la forêt. (Consulter Encadré 25).",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"La Stratégie Nationale de Développement de l’Espace Rural et des Zones de Montagne :",
+"content": "Qui vise entre autres à la réduction des disparités entre les territoires ruraux et les villes, le développement du potentiel économique des zones rurales et le renforcement de l’action gouvernementale au profit des écosystèmes à enjeux spécifiques, notamment les zones oasiennes et montagneuses.
+ 155", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"",
+"content": "#",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Evolution des indicateurs de l'ODD15",
+"content": "| Cibles | Code indicateur | Indicateurs | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | Valeur cible 2030 | |--------|----------------|------------|------|------|------|------|------|------|-----------------| | 15.1 D’ici à 2020, garantir la préservation, la restauration et l’exploitation durable des écosystèmes terrestres et des écosystèmes d’eau douce et des services connexes, en particulier des forêts, des zones humides, des montagnes et des zones arides, conformément aux obligations découlant des accords internationaux | 15.1.1 | Surface des zones forestières, en proportion de la surface terrestre (en %) | 32 | - | - | - | 32 | 32 | - |",
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
+
+{"type": "markdown", 
+"title":"Source",
+"content": ": Direction Régionale des Eaux et Forêts et la lutte Contre la Désertification du Rif
+ 156", 
+"source_file": "C:\\Users\\HUAWEI\\Desktop\\Project_me_and_zineb\\data\\Regions\\Tanger_Hoceima\\VT\\output_VT.md", 
+"region": "Tangier-Tetouan-Al Hoceima"}
