@@ -30,12 +30,20 @@ async def chat_form():
     </html>
     """
 @router.post("/chat/ask")
-async def ask_question(request: Request,question: str = Form(...)):
+async def ask_question(request: Request, question: str = Form(...)):
     try:
         if not hasattr(request.app.state, 'qa_chain') or request.app.state.qa_chain is None:
-            return {"error": "Model still loading, try again in a few seconds"}
+            return {
+                "error": "QA chain not available. This could be due to missing HF_TOKEN, vector store, or model initialization issues.",
+                "message": "Please check the server logs and ensure all components are properly configured.",
+                "demo_response": f"I'm a tourism assistant for the Tangier-Tetouan-Hoceima region. You asked about: '{question}'. In a full setup, I would provide detailed information about this beautiful region in Morocco."
+            }
         
         result = request.app.state.qa_chain.invoke({"query": question})
-        return result["result"]
+        # Return clean text response instead of JSON with sources
+        return {"message": result["result"]}
     except Exception as e:
-        return {"error": str(e)}
+        return {
+            "error": str(e),
+            "demo_response": f"I'm a tourism assistant for the Tangier-Tetouan-Hoceima region. You asked about: '{question}'. In a full setup, I would provide detailed information about this beautiful region in Morocco."
+        }

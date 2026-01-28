@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism AI Assistant</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary-blue: #1e3a8a;
+            --secondary-blue: #3b82f6;
+            --light-blue: #dbeafe;
+            --dark-blue: #1e40af;
+            --accent-blue: #60a5fa;
+            --text-dark: #1f2937;
+            --text-light: #6b7280;
+            --background: #f8fafc;
+            --white: #ffffff;
+            --border: #e5e7eb;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--background);
+            color: var(--text-dark);
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        .container {
+            display: flex;
+            height: 100vh;
+            width: 100%;
+        }
+        
+        .sidebar {
+            width: 280px;
+            background: var(--white);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            padding: 1.5rem;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .logo i {
+            font-size: 1.5rem;
+            color: var(--primary-blue);
+        }
+        
+        .logo h1 {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-dark);
+        }
+        
+        .new-chat-btn {
+            background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+            color: white;
+            border: none;
+            padding: 12px 16px;
+            border-radius: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            transition: all 0.2s;
+            box-shadow: var(--shadow);
+        }
+        
+        .new-chat-btn:hover {
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-lg);
+        }
+        
+        .chat-history {
+            flex: 1;
+            overflow-y: auto;
+        }
+        
+        .history-item {
+            padding: 12px;
+            border-radius: 8px;
+            margin-bottom: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+        
+        .history-item:hover {
+            background: var(--light-blue);
+            color: var(--primary-blue);
+        }
+        
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: var(--white);
+        }
+        
+        .header {
+            padding: 1.5rem 2rem;
+            border-bottom: 1px solid var(--border);
+            background: var(--white);
+        }
+        
+        .header h2 {
+            font-size: 1.5rem;
+            color: var(--primary-blue);
+            font-weight: 600;
+        }
+        
+        .header p {
+            color: var(--text-light);
+            margin-top: 4px;
+            font-size: 0.95rem;
+        }
+        
+        .status-indicator {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 12px;
+            background: var(--light-blue);
+            color: var(--primary-blue);
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            margin-top: 8px;
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--secondary-blue);
+            border-radius: 50%;
+        }
+        
+        .chat-area {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            padding: 2rem;
+            overflow-y: auto;
+            max-height: calc(100vh - 200px);
+        }
+        
+        .messages-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        
+        .welcome-message {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 3rem 0;
+        }
+        
+        .welcome-icon {
+            font-size: 3rem;
+            color: var(--secondary-blue);
+            margin-bottom: 1rem;
+        }
+        
+        .welcome-message h3 {
+            font-size: 1.5rem;
+            color: var(--primary-blue);
+            margin-bottom: 1rem;
+        }
+        
+        .welcome-message p {
+            color: var(--text-light);
+            line-height: 1.6;
+        }
+        
+        .suggestions {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        
+        .suggestion-card {
+            background: var(--light-blue);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .suggestion-card:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+            background: var(--white);
+            border-color: var(--secondary-blue);
+        }
+        
+        .suggestion-card h4 {
+            color: var(--primary-blue);
+            font-size: 0.95rem;
+            margin-bottom: 8px;
+        }
+        
+        .suggestion-card p {
+            color: var(--text-light);
+            font-size: 0.85rem;
+        }
+        
+        .message {
+            display: flex;
+            gap: 12px;
+            max-width: 85%;
+        }
+        
+        .message.user {
+            margin-left: auto;
+            flex-direction: row-reverse;
+        }
+        
+        .message-avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            color: white;
+            flex-shrink: 0;
+        }
+        
+        .message.user .message-avatar {
+            background: var(--secondary-blue);
+        }
+        
+        .message.bot .message-avatar {
+            background: var(--primary-blue);
+        }
+        
+        .message-content {
+            background: var(--white);
+            padding: 16px 20px;
+            border-radius: 18px;
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow);
+            position: relative;
+            line-height: 1.5;
+        }
+        
+        .message.user .message-content {
+            background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+            color: white;
+            border: none;
+        }
+        
+        .typing-indicator {
+            display: none;
+            align-items: center;
+            gap: 8px;
+            color: var(--text-light);
+            font-style: italic;
+        }
+        
+        .typing-dots {
+            display: flex;
+            gap: 4px;
+        }
+        
+        .typing-dots span {
+            width: 6px;
+            height: 6px;
+            background: var(--text-light);
+            border-radius: 50%;
+            animation: typing 1.5s ease-in-out infinite;
+        }
+        
+        .typing-dots span:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        
+        .typing-dots span:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+        
+        @keyframes typing {
+            0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+            30% { transform: translateY(-10px); opacity: 1; }
+        }
+        
+        .input-area {
+            padding: 1.5rem 2rem;
+            background: var(--white);
+            border-top: 1px solid var(--border);
+        }
+        
+        .input-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        .input-wrapper {
+            display: flex;
+            align-items: flex-end;
+            background: var(--white);
+            border: 2px solid var(--border);
+            border-radius: 24px;
+            padding: 8px 16px;
+            transition: border-color 0.2s;
+            box-shadow: var(--shadow);
+        }
+        
+        .input-wrapper:focus-within {
+            border-color: var(--secondary-blue);
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+        
+        .message-input {
+            flex: 1;
+            border: none;
+            outline: none;
+            padding: 12px 16px;
+            font-size: 16px;
+            resize: none;
+            max-height: 120px;
+            background: transparent;
+            color: var(--text-dark);
+        }
+        
+        .message-input::placeholder {
+            color: var(--text-light);
+        }
+        
+        .send-button {
+            background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            color: white;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            margin-left: 8px;
+        }
+        
+        .send-button:hover {
+            transform: scale(1.05);
+        }
+        
+        .send-button:disabled {
+            background: var(--text-light);
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .scroll-to-bottom {
+            position: fixed;
+            bottom: 120px;
+            right: 2rem;
+            background: var(--secondary-blue);
+            border: none;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            color: white;
+            cursor: pointer;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            box-shadow: var(--shadow-lg);
+            transition: all 0.2s;
+        }
+        
+        .scroll-to-bottom:hover {
+            background: var(--primary-blue);
+            transform: translateY(-2px);
+        }
+        
+        .error-message {
+            background: #fef2f2;
+            border: 1px solid #fecaca;
+            color: #dc2626;
+            padding: 16px;
+            border-radius: 12px;
+            margin: 1rem 0;
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            
+            .sidebar {
+                width: 100%;
+                height: auto;
+                padding: 1rem;
+                border-right: none;
+                border-bottom: 1px solid var(--border);
+            }
+            
+            .chat-area {
+                padding: 1rem;
+                max-height: calc(100vh - 300px);
+            }
+            
+            .suggestions {
+                grid-template-columns: 1fr;
+            }
+            
+            .message {
+                max-width: 95%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="logo">
+                <i class="fas fa-compass"></i>
+                <h1>Tourism AI</h1>
+            </div>
+            
+            <button class="new-chat-btn" onclick="clearChat()">
+                <i class="fas fa-plus"></i>
+                New Chat
+            </button>
+            
+            <div class="chat-history" id="chatHistory">
+                <!-- Chat history will appear here when conversations are saved -->
+            </div>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Header -->
+            <div class="header">
+                <h2>Tangier-Tetouan-Hoceima Tourism Assistant</h2>
+                <p>Your AI guide to explore the beautiful region of Morocco</p>
+                <div class="status-indicator" id="statusIndicator">
+                    <div class="status-dot"></div>
+                    <span id="statusText">Connected</span>
+                </div>
+            </div>
+            
+            <!-- Chat Area -->
+            <div class="chat-area" id="chatArea">
+                <div class="messages-container" id="messagesContainer">
+                    <div class="welcome-message">
+                        <i class="fas fa-mosque welcome-icon"></i>
+                        <h3>Welcome to Morocco's Tourism Assistant</h3>
+                        <p>I'm here to help you discover the wonders of the Tangier-Tetouan-Hoceima region. Ask me about historical sites, attractions, local culture, cuisine, or travel recommendations.</p>
+                        
+                        <div class="suggestions">
+                            <div class="suggestion-card" onclick="sendSuggestion('What are the top tourist attractions in Tangier?')">
+                                <h4><i class="fas fa-map-marker-alt"></i> Tourist Attractions</h4>
+                                <p>Discover the must-visit places and landmarks</p>
+                            </div>
+                            <div class="suggestion-card" onclick="sendSuggestion('Tell me about the history of Tangier')">
+                                <h4><i class="fas fa-history"></i> Rich History</h4>
+                                <p>Explore the fascinating historical heritage</p>
+                            </div>
+                            <div class="suggestion-card" onclick="sendSuggestion('What local dishes should I try?')">
+                                <h4><i class="fas fa-utensils"></i> Local Cuisine</h4>
+                                <p>Taste authentic Moroccan flavors</p>
+                            </div>
+                            <div class="suggestion-card" onclick="sendSuggestion('What is the local culture like?')">
+                                <h4><i class="fas fa-users"></i> Culture & Traditions</h4>
+                                <p>Learn about local customs and traditions</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="typing-indicator" id="typingIndicator">
+                    <div class="message-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <span>AI Assistant is typing</span>
+                    <div class="typing-dots">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Input Area -->
+            <div class="input-area">
+                <div class="input-container">
+                    <div class="input-wrapper">
+                        <textarea 
+                            id="messageInput" 
+                            class="message-input" 
+                            placeholder="Ask me anything about Tangier-Tetouan-Hoceima region..."
+                            rows="1"
+                            onkeypress="handleKeyPress(event)"
+                            oninput="adjustTextareaHeight(this)"
+                        ></textarea>
+                        <button class="send-button" id="sendButton" onclick="sendMessage()">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <button class="scroll-to-bottom" id="scrollToBottom" onclick="scrollToBottom()">
+        <i class="fas fa-arrow-down"></i>
+    </button>
+
+    <script>
+        const API_BASE = 'http://localhost:8000';
+        let isFirstMessage = true;
+        
+        // Check API status on load
+        window.onload = function() {
+            checkApiStatus();
+            document.getElementById('messageInput').focus();
+        };
+        
+        async function checkApiStatus() {
+            const statusText = document.getElementById('statusText');
+            const statusIndicator = document.getElementById('statusIndicator');
+            
+            try {
+                const response = await fetch(`${API_BASE}/`);
+                if (response.ok) {
+                    statusIndicator.style.background = 'var(--light-blue)';
+                    statusIndicator.style.color = 'var(--primary-blue)';
+                    statusText.textContent = 'Connected & Ready';
+                } else {
+                    throw new Error('API not responding');
+                }
+            } catch (error) {
+                statusIndicator.style.background = '#fee2e2';
+                statusIndicator.style.color = '#dc2626';
+                statusText.textContent = 'Connection Error';
+            }
+        }
+        
+        function adjustTextareaHeight(textarea) {
+            textarea.style.height = 'auto';
+            textarea.style.height = Math.min(textarea.scrollHeight, 120) + 'px';
+        }
+        
+        function handleKeyPress(event) {
+            if (event.key === 'Enter' && !event.shiftKey) {
+                event.preventDefault();
+                sendMessage();
+            }
+        }
+        
+        function sendSuggestion(text) {
+            document.getElementById('messageInput').value = text;
+            sendMessage();
+        }
+        
+        async function sendMessage() {
+            const messageInput = document.getElementById('messageInput');
+            const message = messageInput.value.trim();
+            
+            if (!message) return;
+            
+            // Hide welcome message on first interaction
+            if (isFirstMessage) {
+                document.querySelector('.welcome-message').style.display = 'none';
+                isFirstMessage = false;
+            }
+            
+            // Add user message
+            addMessage(message, 'user');
+            
+            // Clear input
+            messageInput.value = '';
+            adjustTextareaHeight(messageInput);
+            
+            // Show typing indicator
+            showTypingIndicator();
+            
+            try {
+                const formData = new FormData();
+                formData.append('question', message);
+                
+                const response = await fetch(`${API_BASE}/chat/ask`, {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const result = await response.json();
+                
+                hideTypingIndicator();
+                
+                if (result.message) {
+                    addMessage(result.message, 'bot');
+                } else if (result.demo_response) {
+                    addMessage(result.demo_response, 'bot');
+                } else if (result.error) {
+                    addMessage(`I apologize, but I'm experiencing some technical difficulties. ${result.error}`, 'bot', true);
+                } else {
+                    addMessage("I'm sorry, I couldn't process your request at the moment.", 'bot', true);
+                }
+                
+            } catch (error) {
+                hideTypingIndicator();
+                addMessage("I'm having trouble connecting to my knowledge base. Please check if the server is running.", 'bot', true);
+                console.error('Error:', error);
+            }
+            
+            messageInput.focus();
+        }
+        
+        function addMessage(text, sender, isError = false) {
+            const messagesContainer = document.getElementById('messagesContainer');
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${sender}`;
+            
+            const avatar = document.createElement('div');
+            avatar.className = 'message-avatar';
+            avatar.innerHTML = sender === 'user' ? '<i class="fas fa-user"></i>' : '<i class="fas fa-robot"></i>';
+            
+            const content = document.createElement('div');
+            content.className = 'message-content';
+            if (isError) {
+                content.className += ' error-message';
+            }
+            content.textContent = text;
+            
+            messageDiv.appendChild(avatar);
+            messageDiv.appendChild(content);
+            
+            messagesContainer.appendChild(messageDiv);
+            
+            // Scroll to bottom
+            setTimeout(() => {
+                const chatArea = document.getElementById('chatArea');
+                chatArea.scrollTop = chatArea.scrollHeight;
+            }, 100);
+        }
+        
+        function showTypingIndicator() {
+            const typingIndicator = document.getElementById('typingIndicator');
+            const sendButton = document.getElementById('sendButton');
+            
+            typingIndicator.style.display = 'flex';
+            sendButton.disabled = true;
+            
+            setTimeout(() => {
+                const chatArea = document.getElementById('chatArea');
+                chatArea.scrollTop = chatArea.scrollHeight;
+            }, 100);
+        }
+        
+        function hideTypingIndicator() {
+            const typingIndicator = document.getElementById('typingIndicator');
+            const sendButton = document.getElementById('sendButton');
+            
+            typingIndicator.style.display = 'none';
+            sendButton.disabled = false;
+        }
+        
+        function clearChat() {
+            const messagesContainer = document.getElementById('messagesContainer');
+            messagesContainer.innerHTML = `
+                <div class="welcome-message">
+                    <i class="fas fa-mosque welcome-icon"></i>
+                    <h3>Welcome to Morocco's Tourism Assistant</h3>
+                    <p>I'm here to help you discover the wonders of the Tangier-Tetouan-Hoceima region. Ask me about historical sites, attractions, local culture, cuisine, or travel recommendations.</p>
+                    
+                    <div class="suggestions">
+                        <div class="suggestion-card" onclick="sendSuggestion('What are the top tourist attractions in Tangier?')">
+                            <h4><i class="fas fa-map-marker-alt"></i> Tourist Attractions</h4>
+                            <p>Discover the must-visit places and landmarks</p>
+                        </div>
+                        <div class="suggestion-card" onclick="sendSuggestion('Tell me about the history of Tangier')">
+                            <h4><i class="fas fa-history"></i> Rich History</h4>
+                            <p>Explore the fascinating historical heritage</p>
+                        </div>
+                        <div class="suggestion-card" onclick="sendSuggestion('What local dishes should I try?')">
+                            <h4><i class="fas fa-utensils"></i> Local Cuisine</h4>
+                            <p>Taste authentic Moroccan flavors</p>
+                        </div>
+                        <div class="suggestion-card" onclick="sendSuggestion('What is the local culture like?')">
+                            <h4><i class="fas fa-users"></i> Culture & Traditions</h4>
+                            <p>Learn about local customs and traditions</p>
+                        </div>
+                    </div>
+                </div>
+            `;
+            isFirstMessage = true;
+        }
+        
+        function scrollToBottom() {
+            const chatArea = document.getElementById('chatArea');
+            chatArea.scrollTop = chatArea.scrollHeight;
+        }
+        
+        // Show/hide scroll to bottom button
+        document.getElementById('chatArea').addEventListener('scroll', function() {
+            const chatArea = this;
+            const scrollButton = document.getElementById('scrollToBottom');
+            const isNearBottom = chatArea.scrollHeight - chatArea.scrollTop - chatArea.clientHeight < 100;
+            
+            scrollButton.style.display = isNearBottom ? 'none' : 'flex';
+        });
+        
+        // Auto-refresh API status every 30 seconds
+        setInterval(checkApiStatus, 30000);
+    </script>
+</body>
+</html>
